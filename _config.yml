@@ -66,9 +66,9 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "aquabubu"
+  username               : &twitter "aquabubu1731"
 facebook:
-  username               : &facebook "aquabubu"
+  username               : &facebook "aquabubupage"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -78,8 +78,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://facebook.com/aquabubu"
-    - "https://twitter.com/aquabubu"
+    - "https://facebook.com/aquabubupage"
+    - "https://twitter.com/aquabubu1731"
 
 # Analytics
 analytics:
@@ -106,7 +106,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "aquabubu"
+  instagram        : "aquabubu1731"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :

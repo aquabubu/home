@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   cta_label: ""
-  cta_url: ""
+  cta_url: "/blog/"
   caption:
 excerpt: 'Be Hypnotic and Paranoid with us'
 intro:
@@ -13,6 +13,15 @@ intro:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+<!-- <div class="feature__wrapper">
+  <h1>Life Blog</h1>  
+  <div class="grid__wrapper">
+    {% for post in site.blog_life %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
+  </div>
+</div>
 
 <div class="feature__wrapper">
   <h1>Tech Blog</h1>  
@@ -24,10 +33,10 @@ intro:
 </div>
 
 <div class="feature__wrapper">
-  <h1>Life Blog</h1>
+  <h1>Tech Blog 2</h1>
   <div class="grid__wrapper">
     {% for post in site.portfolio %}
       {% include archive-single.html type="grid" %}
     {% endfor %}
   </div>
-</div>
+</div> -->
