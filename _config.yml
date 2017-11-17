@@ -37,7 +37,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master"
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -52,8 +52,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : # "6LcPuTYUAAAAANqhmGOlwefONscFeO1d4R3gT4Sn"
+  secret                 : # "6LcPuTYUAAAAAE10AYHSxIseC1YcoAPjFMl1IH6x"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
