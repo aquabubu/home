@@ -31,16 +31,16 @@ I made my trip in May (Mid-season Sale, items decreased slightly, about 30%). Yo
 
 I have visited these places: Disneyland, Ocean Park, Wong Tai Sin, Chi Lin - Lian Garden, Peak Tram - The Peak, Tsim Sha Tsui Clock Tower, Avenue of Stars, Tsim Sha Tsui Tai O Fishing Village, Ngong Ping, Citigate Tung Chung Outlet, Temple Market, Jade Market, Mid-levels Escalator (the longest outdoor escalator in the world),  HK3D Museum (at that time, there was One Piece 3D exhibition).
 
-See the review here
+See the review <a href="http://aquabubu.com/travel/Hong-Kong-trip/" target="_blank">here</a>.
 
 ## <span style="color:tomato"> Food and Drink </span>
 
-There is a website in Hong Kong called OpenRice (www.openrice.com) that has all information about the restaurants, special dishes, pictures, prices, hours, instructions to go. Or, you can take a look at my post of Hong Kong food that I've tried.
+There is a website in Hong Kong called <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a> that has all information about the restaurants, special dishes, pictures, prices, hours, instructions to go. Or, you can take a look at my post of Hong Kong food that I've tried.
 
 Hong Kong food is a combination between Chinese & Western cuisine, extremely delicious, extremely memorable. This is what impressed me most. I enjoyed the food at about 20 local famous restaurants and those restaurants that are voted by the local people were really good.
 
 People here eat a lot of meat and less vegetable. When you eat the noodle, if want to eat vegetables, you have to order it separately. You will be charged more but it’s big enough for two people.
-
+ 
 ## <span style="color:seagreen"> Transportation </span>
 
 I mostly used MTR. There are also special vehicles to try such as electric bus running on the Ding Ding railroad, cruise ship through Star Perry Island (these two are mainly for fun and relax, the price is very cheap, about HK$3).
