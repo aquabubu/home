@@ -19,6 +19,7 @@ toc: true
 ---
 
 I'm gonna share some information about my trip to **Bangkok** - Thailand. Hope it will be helpful for those who plan to travel there.
+{: style="text-align: justify;"}
 
 ## <span style="color:red"> Silom & Patpong </span>
 
