@@ -1,5 +1,5 @@
 ---
-title: A trip to Bangkok part 2
+title: A trip to Bangkok - Part 2
 categories: Travel
 tags:
 - bangkoktravel
@@ -19,7 +19,7 @@ related: true
 toc: true
 ---
 
-Let's continue to see the places in Bangkok. So, in the last post, I talked about some places and stopped at the Wat Arun and from there, I went to Wat Pho and Grand Palace.
+Let's continue to see the places in Bangkok. So, in the <a href="http://aquabubu.com/travel/A-trip-to-Bangkok-Part-1/" target="_blank">last post </a>, I talked about some places and stopped at the Wat Arun and from there, I went to Wat Pho and Grand Palace.
 {: style="text-align: justify;"}
 
 ##  <span style="color:red">  Wat Pho & Grand Palace </span>
