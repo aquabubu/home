@@ -35,9 +35,9 @@ See the review <a href="http://aquabubu.com/travel/Hong-Kong-trip/" target="_bla
 
 ## <span style="color:tomato"> Food and Drink </span>
 
-There is a website in Hong Kong called <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a> that has all information about the restaurants, special dishes, pictures, prices, hours, instructions to go. Or, you can take a look at my post of Hong Kong food that I've tried.
+There is a website in Hong Kong called <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a> that has all information about the restaurants, special dishes, pictures, prices, hours, instructions to go. Or, you can take a look at my <a href="http://aquabubu.com/cuisine/Hong-Kong-food-trip/" target="_blank">post</a> of Hong Kong food that I've tried.
 
-Hong Kong food is a combination between Chinese & Western cuisine, extremely delicious, extremely memorable. This is what impressed me most. I enjoyed the food at about 20 local famous restaurants and those restaurants that are voted by the local people were really good.
+Hong Kong food is a combination between Chinese & Western cuisine, extremely delicious, extremely memorable. This is what impressed me most. I enjoyed the food at about 20 local famous restaurants and those restaurants that are voted by the local people were really good. 
 
 People here eat a lot of meat and less vegetable. When you eat the noodle, if want to eat vegetables, you have to order it separately. You will be charged more but it’s big enough for two people.
  
