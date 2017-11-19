@@ -25,7 +25,7 @@ comments:
   # request.
   branch: "master"
 
-  commitMessage: "New comment"
+  commitMessage: "Staticman Data"
 
   # (*) REQUIRED
   #
@@ -52,33 +52,24 @@ comments:
   moderation: true
 
   # Akismet spam detection.
-  # akismet:
-  #   enabled: true
-  #   author: "name"
-  #   authorEmail: "email"
-  #   authorUrl: "url"
-  #   content: "message"
-  #   type: "comment"
+  akismet:
+    enabled: true
+    author: "AquaBubu"
+    authorEmail: "maidh91@gmail.com"
+    authorUrl: "http://aquabubu.com"
+    content: "Akismet Content"
+    type: "comment"
 
   # Name of the site. Used in notification emails.
-  # name: "Your Site"
+  name: "AquaBubu"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
-  # notifications:
-    # Enable notifications
-    # enabled: true
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun API key
-    # apiKey: ""
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun domain (encrypted)
-    # domain: ""
+  notifications:
+    enabled: true
+    apiKey: "key-78e828568be7c8405dc172d30578026f"
+    domain: "mg.aquabubu.com"
 
   # (*) REQUIRED
   #
@@ -101,4 +92,4 @@ comments:
     siteKey: "6LcPuTYUAAAAANqhmGOlwefONscFeO1d4R3gT4Sn"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    secret: "6LcPuTYUAAAAAE10AYHSxIseC1YcoAPjFMl1IH6x"
+    secret: "TBhMUPgObU/rh1iR+R7LHSfnedof12DO1J7EYJJ7uqoNA/w4roXWlE/JxO1+/DTjNhhmw3QmrhII89ljHPa0JtRR7457tXjucCeDJ3y2UeF7dcsydVQLxdo9VSbfIvuC3181lm47WcpIiZlrVtkThmVGpCOKTCyMC2R6exqKvqU="
