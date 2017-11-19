@@ -71,14 +71,14 @@ Some people say that you can use it daily but since it contains a lot of nutrien
 {: style="text-align: justify;"}
 
 ## How it works
-<figure style="width: 600px" class="align-center">
+<figure style="width: 650px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 ## I say
 
-The texture of this sleeping mask is a "hybrid" between cream and gel form. I really like this texture especially with extremely light blue color (I :blue_heart: blue). This mask is also light and easily absorbed deep into the skin, leaving no unpleasant odor. After washing in the next morning, my skin feels moisture, smooth and brighten. Additionally, I sometimes have some redness and pimples, whenever I use this sleeping mask, the redness gone and the pimples really look better. Laneige said that the scent of this sleeping mask helps people relax, sleep better and deeper but I always sleep easily so I am not sure about it.
+The texture of this sleeping mask is a "hybrid" between cream and gel form. I really like this texture especially with extremely light blue color (I :blue_heart: blue). This mask is also light and easily absorbed deep into the skin, leaving no unpleasant odor. After washing in the next morning, my skin feels moisture, smooth and brighten. Additionally, I sometimes have some redness and pimples, whenever I use this sleeping mask, the redness gone and the pimples really look better. Laneige said that the scent of this sleeping mask helps people relax, sleep better and deeper but I always sleep easily so I am not sure about it. 
 {: style="text-align: justify;"}
 
 This is my second bottle and I really love how my skin looks after using it. But I think I'm gonna switch to another since I would like to have more experience about Korean sleeping mask. Laneige sleeping mask is greatthat I highly recommend it, especially for summer. :snowflake::snowflake::snowflake:
