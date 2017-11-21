@@ -3,7 +3,7 @@ title: About
 layout: single
 author_profile: true
 permalink: "/about/"
-excerpt: Minimal Mistakes is a flexible two-column Jekyll theme.
+excerpt: AquaBubu website.
 last_modified_at: '2017-10-20 12:43:30 -0400'
 toc: true
 ---
