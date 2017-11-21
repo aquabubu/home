@@ -13,5 +13,5 @@ Aqua loves traveling and exploring wonderful places, meeting people and enjoying
 {: style="text-align: justify;"}
 
 ## :blue_heart: <font color="#ED031D">B</font><font color="LightSeaGreen">U</font><font color="navy">B</font><font color="MediumVioletRed">U</font>
-BuBu is a diligent programmer. He loves traveling, playing different musical instruments, improving skills and self-development. He teaches Aqua coding this blog, hope there will be no bug. :satisfied:
+BuBu is a diligent programmer. He loves traveling, playing different musical instruments, improving skills and self-development. He teaches Aqua coding this blog and hopes there will be no bug. :satisfied:
 {: style="text-align: justify;"}
