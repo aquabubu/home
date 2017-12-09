@@ -118,7 +118,7 @@ When choosing a place to go, be careful of Zika virus. In pregnant women, it may
   * When applying oil to your abdominal area, remember: Pour the oil into the palm of your hand and softly apply it to your abdomen. Remember to avoid to rub around your abdomen because it makes uterus contracting, which may lead to premature birth. I applied it continuously until birth, twice per day, before going to work and before sleeping.
 {: style="text-align: justify;"}
 
- ## <span style="color:mediumvioletred"> Third trimester </span>
+## <span style="color:mediumvioletred"> Third trimester </span>
  <figure style="width: 450px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby2.gif" alt="">
   <figcaption></figcaption>
