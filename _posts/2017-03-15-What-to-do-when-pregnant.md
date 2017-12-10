@@ -1,9 +1,9 @@
 ---
-title: My daily routine during pregnancy
+title: What to do when pregnant?
 categories: Baby
 tags:
 - pregnancy
-- dailyroutineinpregnancy
+- whattodowhenpregnant
 - allaboutmypregnancy
 - avoidprematurebirth
 - normalvaginadelivery
