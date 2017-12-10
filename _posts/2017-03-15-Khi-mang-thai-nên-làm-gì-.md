@@ -31,7 +31,7 @@ Sinh thường được hay không phụ thuộc vào 3 yếu tố: khung chậu
 Thường thì nếu kích thước thai nhi nhỏ, có những cơn đau theo chu kì khi gần đến ngày sinh và tử cung mở ra nhiều thì 80% là bạn sẽ được sinh thường. Vì vậy những gì các mẹ cần làm là tự chăm sóc bản thân thật là tốt và luôn đi khám thai định kì. Đến ngày đến tháng thì tự khắc bác sĩ sẽ nói mình sinh kiểu gì ấy mà.
 {: style="text-align: justify;"}
 
-Giờ chỉ có thể xác định được khung chậu (nghĩa là mông có to hay ko ah :simple_smile:), cái này thì phải khám trực tiếp mới biết, nhưng cũng chỉ đúng một phần thôi vì khung chậu có thể rộng tương đối nếu thai nhỏ, hẹp tương đối với thai bự.
+Giờ chỉ có thể xác định được khung chậu (nghĩa là mông có to hay ko ah :laughing:), cái này thì phải khám trực tiếp mới biết, nhưng cũng chỉ đúng một phần thôi vì khung chậu có thể rộng tương đối nếu thai nhỏ, hẹp tương đối với thai bự.
 {: style="text-align: justify;"}
 
 ## <span style="color:royalblue"> Bé khoảng mấy tuần tuổi thì cho nghe nhạc để thông minh? </span>
