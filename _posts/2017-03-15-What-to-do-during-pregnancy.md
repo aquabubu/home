@@ -1,5 +1,5 @@
 ---
-title: What to do when pregnant?
+title: What to do during pregnancy?
 categories: Baby
 tags:
 - pregnancy
