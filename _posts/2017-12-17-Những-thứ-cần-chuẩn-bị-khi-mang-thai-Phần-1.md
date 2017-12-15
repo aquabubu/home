@@ -71,7 +71,7 @@ Nên mua loại dùng điện (hoặc pin) và máy hút hai bên, như vậy s�
 Ngày xưa ông bà thường đun nước sôi và trụng qua để tiệt trùng nhưng mà mình thấy mất thời gian quá nên mua luôn máy này, chỉ cần rửa bình xong là cho vô máy, bấm nút tiệt trùng, khi nào xài thì lấy ra thôi. Mình cũng xài máy tiệt trùng của Philips Avent - 3-in-1 Electric Steam Sterilizer - máy này tiệt trùng bằng hơi nước. Chỉ có một điều mình không thích ở cái máy đó là sau khi tiệt trùng xong, bình sữa vẫn còn ẩm ướt, mình phải vẩy nước đi rồi mới dùng được. Còn loại tiệt trùng bằng tia UV thì khô ráo hơn, nhưng mình không biết nếu chiếu tia UV nhiều thì có ảnh hưởng chất lượng nhựa của bình sữa không nữa.
 {: style="text-align: justify;"}
 
-## <span style="color:crimson"> Bình sữa </span>
+## <span style="color:crimson"> Bình sữa và núm vú </span>
 
 <img align="left" style="width: 200px; padding: 10px"  src="/assets/images/bottle.png"> Hiện nay có rất nhiều hãng chuyên về baby như: Avent, Upis, Double Heart, Spectra… Mỗi hãng khác nhau thì kích thước bình và kiểu núm vú cũng khác nhau. Mình dùng set bình sữa + núm của Double Heart, và thấy khá là ổn. Có 2 size bình: 160ml và 240ml với các size núm SS (bé sơ sinh), S (1-3 tháng), M (3-6 tháng) và L (6 tháng trở lên). 
 {: style="text-align: justify;"}
