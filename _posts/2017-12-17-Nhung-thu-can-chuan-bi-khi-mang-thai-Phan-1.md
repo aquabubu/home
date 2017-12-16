@@ -1,6 +1,6 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai - Phần 1
-categories: Bé yêu
+categories: Bé-yêu
 tags:
 - nhungthucanchuanbikhimangthai
 - dochome
@@ -17,7 +17,7 @@ related: true
 toc: true
 ---
 
-Khi mang thai các mẹ cần chuẩn bị rất nhiều thứ, không chỉ cần chuẩn bị về tâm lí mà còn phải mua nhiều vật dụng cần thiết sau này. Vì thế, mình sẽ liệt kê một số thứ mình đã chuẩn bị khi mang thai và mình thấy chúng khá là cần thiết.
+Khi mang thai các mẹ cần chuẩn bị rất nhiều thứ, không chỉ cần chuẩn bị về tâm lí mà còn phải mua nhiều vật dụng cần thiết sau này. Vì thế, mình sẽ liệt kê một số thứ mình đã chuẩn bị khi mang thai và mình thấy chúng khá là cần thiết. 
 {: style="text-align: justify;"}
 
 ## Đồ cho mẹ bầu
