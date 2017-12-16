@@ -21,7 +21,7 @@ toc: true
 It can’t be denied that wearing makeup gives us a beautiful out-looking and make us feel more confident when going out. And recently in Korea, the cushion appears as the savior for those who need the natural and thin-layer makeup. And more than that, it can give you a natural dewy makeup as many Korean celebrities.
 {: style="text-align: justify;"}
 
-** IOPE Air Cushion ** is one of the best cushions in Korea and loved by many girls. Actually, when I asked my Korean friend about this IOPE cushion and HERA cushion, they said that the IOPE cushion is better so I chose it  I bought it online at a discount price 33,600krw, ~$33 (the original price is 42,000krw, ~$40). IOPE is one of the mid-range brands of Amore Pacific – a huge cosmetic corporation in Korea. IOPE products are based on highly-enriched herbal extracts and cutting-edge scientific technology.
+**IOPE Air Cushion** is one of the best cushions in Korea and loved by many girls. Actually, when I asked my Korean friend about this IOPE cushion and HERA cushion, they said that the IOPE cushion is better so I chose it  I bought it online at a discount price 33,600krw, ~$33 (the original price is 42,000krw, ~$40). IOPE is one of the mid-range brands of Amore Pacific – a huge cosmetic corporation in Korea. IOPE products are based on highly-enriched herbal extracts and cutting-edge scientific technology.
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">

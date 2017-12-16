@@ -37,7 +37,7 @@ Mình toàn canh đợt giảm giá của hãng và liên hệ với người b�
   <figcaption></figcaption>
 </figure>
 
-Kinh nghiệm của mình (và cũng như của hầu hết các chị em phụ nữa) về việc mua kem che khuyết điểm là bạn nên chọn một tông sáng hơn tông da của bạn. Mình đã chon tông #2 – **Natural Beige**.
+Kinh nghiệm của mình (và cũng như của hầu hết các chị em phụ nữa) về việc mua kem che khuyết điểm là bạn nên chọn một tông sáng hơn tông da của bạn. Mình đã chọn tông #2 – **Natural Beige**.
 {: style="text-align: justify;"}
 
 ## Bao bì

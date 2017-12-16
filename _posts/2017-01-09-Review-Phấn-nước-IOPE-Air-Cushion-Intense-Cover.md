@@ -20,7 +20,7 @@ toc: true
 Không thể phủ nhận rằng trang điểm sẽ làm cho chị em chúng mình đẹp và cảm thấy tự tin hơn khi đi ra ngoài đường. Và ở Hàn Quốc phấn nước là bí quyết để có lớp trang điểm mỏng và tự nhiên, nổi tiếng nhất là lớp trang điểm phủ sương của các cô gái Hàn.
 {: style="text-align: justify;"}
 
-** IOPE Air Cushion ** là một trong những loại phấn nước được nhiều cô gái yêu thích và sử dụng rộng rãi. Thật ra, khi mình hỏi những người bạn Hàn của mình về việc so sánh giữa phấn nước IOPE và HERA, tụi nó bảo IOPE xài tốt hơn nên sau bao đắn đo thì mình cũng tậu một em về (tất nhiên là cũng canh dịp đang sale). 
+**IOPE Air Cushion** là một trong những loại phấn nước được nhiều cô gái yêu thích và sử dụng rộng rãi. Thật ra, khi mình hỏi những người bạn Hàn của mình về việc so sánh giữa phấn nước IOPE và HERA, tụi nó bảo IOPE xài tốt hơn nên sau bao đắn đo thì mình cũng tậu một em về (tất nhiên là cũng canh dịp đang sale). 
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
