@@ -44,7 +44,7 @@ So, **IOPE claims** that:
 
 ## How to use
 
-After removing the makeup and pat drying the skin, take a nickel size onto the palm, gently massage it from the nose to the entire face, and wash it well with warm water (be careful to not stimulate the skin too much by rubbing to strongly).
+After cleaning your face and pat drying the skin, take a nickel size onto the palm, gently massage it from the nose to the entire face, and wash it well with warm water (be careful to not stimulate the skin too much by rubbing to strongly).
 {: style="text-align: justify;"}
 
 I use it twice per week, and you know, after exfoliation, your skin will be very clean and dry so you can put on a sheet mask, it will absorb deep into your skin and bring good effect. Additionally, depending on your skin type that you can choose the frequency to exfoliate your skin though I think even with the oily skin, 3 times per week is enough.
