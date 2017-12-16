@@ -28,7 +28,7 @@ Hồi xưa cứ tự tin là không cần trang điểm mà da vẫn đẹp, mà
   <figcaption></figcaption>
 </figure>
 
-Mình toàn canh đợt giảm giá của hãng và liên hệ với chị người quen hiện đang kinh doanh mỹ phẩm Hàn để mua, vừa có giá tốt mà vừa yên tâm về chất lượng nữa.
+Mình toàn canh đợt giảm giá của hãng và liên hệ với chị người quen hiện đang kinh doanh mỹ phẩm Hàn để mua, vừa có giá tốt mà vừa yên tâm về chất lượng nữa. Giá ở VN là 120k thì phải.
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
