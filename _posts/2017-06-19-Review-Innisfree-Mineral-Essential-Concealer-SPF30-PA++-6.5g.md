@@ -72,8 +72,8 @@ I usually apply it after the cushion and use my hand or the puff to spread it. B
 
 **I say**
 
-It is ok for that cheap price. With only one layer, it didn’t cover well my pimples and scars. But it will look unnatural and leave the white cast layer if I use double layers or more. Moreover, after using, my skin becomes dry at the area where I put on the concealer. I didn’t moisture my skin as it claimed. And I also didn’t see any effect of anti-wrinkle. I don’t use it for the dark circle or wrinkles under my eyes because it makes the wrinkles even more serious.
+It is ok for that cheap price. With only one layer, it just covers well my scars, not the pimples, so I put it 2-3 layers. Moreover, after using for hours, my skin becomes dry at the area where I put on the concealer (it's probably due to the dry weather in Korea). I have no idea about anti-wrinkle efect. I don’t use it for the dark circle or wrinkles under my eyes because I am afraid that it''ll make the wrinkles even more serious.
 {: style="text-align: justify;"}
 
-So, if you already have a smooth skin with minor problems, this product is good and cheap. But if you need something hidden pimples and acne scars perfectly, you should find another concealer. I will try another when I finish it. 
+So, if you already have a smooth skin with minor problems such as scars, this product is good and cheap. But if you need something hidden pimples perfectly, you should find another concealer. I will try another when I finish it. 
 {: style="text-align: justify;"}
