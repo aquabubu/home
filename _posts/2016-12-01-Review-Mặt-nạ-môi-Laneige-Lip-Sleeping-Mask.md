@@ -8,7 +8,7 @@ tags:
 - duongmoi
 - aquabubu
 header:
-  teaser: assets/images/lipmask-1.png.png
+  teaser: assets/images/lipmask-1.png
 layout: single
 author_profile: true
 read_time: true
