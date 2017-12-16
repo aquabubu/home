@@ -7,6 +7,7 @@ tags:
 - jaundice
 - breastmilkorformulamilk
 - breastfeedingorbottlefeeding
+- aquabubu
 header:
   teaser: assets/images/lifeafterbirth.png
 layout: single

@@ -6,6 +6,7 @@ tags:
 - Innisfree Mineral Essential Concealer SPF30 PA++ 6.5g
 - chekhuyetdiem
 - basemakeup
+- aquabubu
 header:
   teaser: assets/images/concealer-1.png
 layout: single

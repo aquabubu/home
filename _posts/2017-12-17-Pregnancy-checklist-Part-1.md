@@ -7,6 +7,7 @@ tags:
 - bottlewarmer
 - sterilizer
 - thermometer
+- aquabubu
 header:
   teaser: assets/images/ava.png
 layout: single
