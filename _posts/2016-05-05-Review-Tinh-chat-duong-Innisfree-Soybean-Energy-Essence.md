@@ -40,7 +40,7 @@ Hãng tuyên bố rằng đây là một tinh chất dưỡng chống lão hó
 Các gamma-PGA từ đậu nành lên men Jeju , được trồng ở độ cao 2,034 ft trên đỉnh núi Halla, góp phần tạo ra một lớp màng bảo vệ da giúp chống lại những tác nhân gây hại từ môi trường.
 {: style="text-align: justify;"}
 
-  * **tinh chất dưỡng 6-trong-1 giúp trẻ hoá làn da**
+  * **Tinh chất dưỡng 6-trong-1 giúp trẻ hoá làn da**
  
 Tinh chất này loại bỏ tạp chất trên da cho làn da mềm mại hơn, giúp tăng độ đàn hồi, tái tạo và làm sáng làn da của bạn. 
 {: style="text-align: justify;"}

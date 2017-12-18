@@ -39,7 +39,7 @@ Em mặt nạ ngủ này có kết cấu mềm nhẹ, làm dịu mát da
   <figcaption></figcaption>
 </figure>
 
-**Laneige tuyen bố rằng**:
+**Laneige tuyên bố rằng**:
 
   * Hiệu quả làm sạch da: Công nghệ SLEEP-TOX ™ giúp trẻ hóa làn da vốn mệt mỏi và căng thẳng, làm da được hồi phục nhanh chóng.
 {: style="text-align: justify;"}
@@ -62,7 +62,7 @@ Em mặt nạ ngủ này có kết cấu mềm nhẹ, làm dịu mát da
 
 <span style="color:teal"> Rửa mặt -> Nước cân bằng da (toner) -> Tinh chất dưỡng -> Kem mắt -> Mặt nạ ngủ  </span>
 
-Nhiều blogger làm đẹp nói rằng họ thậm chí còn sử dụng kem dưỡng trước rồi mới đến mặt nạ ngủ, nhưng mình thấy không cần thiết, mặt nạ ngủ là đủ rồi. Và, mình luôn để hũ mặt nạ này trong tủ lạnh nên mỗi khi tôi dùng nó còn có tác dụng làm mát da nữa. Cách này srư dụng vào mùa hè thì thích lắm.
+Nhiều blogger làm đẹp nói rằng họ thậm chí còn sử dụng kem dưỡng trước rồi mới đến mặt nạ ngủ, nhưng mình thấy không cần thiết, mặt nạ ngủ là đủ rồi. Và, mình luôn để hũ mặt nạ này trong tủ lạnh nên mỗi khi dùng nó còn có tác dụng làm mát da nữa. Cách này sử dụng vào mùa hè thì thích lắm.
 {: style="text-align: justify;"}
 
 Mình đã thử dùng em này hằng ngày nhưng thấy không hiệu quả như làm tách ngày. Vì có chứa nhiều dưỡng chất và khả năng cấp nước cao, dùng 2-3 lần mỗi tuần là thích hợp với mình rồi (da mình thuộc loại hỗn hợp). 
@@ -75,7 +75,7 @@ Mình đã thử dùng em này hằng ngày nhưng thấy không hiệu 
 
 ## Mình thấy là
 
-Kết cấu của em mặt nạ ngủ này là "lai" giữa kem và gel với màu xanh nhạt nhìn thích mắt lắm(I :blue_heart: blue). Mặt nạ này cũng nhẹ và dễ dàng hấp thụ sâu vào da, không để lại mùi gì. Sau khi rửa mặt vào sáng hôm sau, da của mình mượt và sáng hẳn, cũng không hề bị khô. Thêm nữa, hôm nào mình bị nổi số mẩn đỏ và mụn mà xài em này xong là sáng hôm sau, da dịu lại không còn đỏ nữa, mụn cũng xẹp hẳn. Laneige nói rằng mùi hương của em này giúp thư giãn, ngủ ngon hơn và sâu hơn nhưng mình dễ ngủ nên không chắc chắn về nó.
+Kết cấu của em mặt nạ ngủ này là "lai" giữa kem và gel với màu xanh nhạt nhìn thích mắt lắm(I :blue_heart: blue). Mặt nạ này cũng nhẹ và dễ dàng hấp thụ sâu vào da, không để lại mùi gì. Sau khi rửa mặt vào sáng hôm sau, da của mình mượt và sáng hẳn, cũng không hề bị khô. Thêm nữa, hôm nào mình bị nổi mẩn đỏ và mụn mà xài em này xong là sáng hôm sau, da dịu lại không còn đỏ nữa, mụn cũng xẹp hẳn. Laneige nói rằng mùi hương của em này giúp thư giãn, ngủ ngon hơn và sâu hơn nhưng mình dễ ngủ nên không chắc chắn về nó.
 {: style="text-align: justify;"}
 
 Mình xài đến hũ thứ hai rồi, và vẫn không có ý định đổi loại khác đâu, nhưng có thể sẽ mua loại có hương lavender mới ra xem sao. :snowflake::snowflake::snowflake:

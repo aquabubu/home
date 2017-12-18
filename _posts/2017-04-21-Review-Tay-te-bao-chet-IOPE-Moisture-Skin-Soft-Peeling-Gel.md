@@ -17,7 +17,7 @@ related: true
 toc: true
 ---
 
-Dưỡng da là cả một quá trình rất quan trọng và đòi hỏi nhiều bước dưỡng. Và một trong số đó là tẩy tế bào chết (nôm na là tẩy da chết), nó không chỉ làm sạch các lỗ chân lông mà còn lấy đi các tế bào da chết trên mặt bạn. Khi bạn loại bỏ lớp da cũ thì làn da của bạn sẽ sáng hơn, các vết thâm sẽ mờ nhanh hơn và hấp thu dưỡng chất tốt hơn. Vì vậy, hôm nay mình sẽ review cho bạn sản phẩm tẩy tế bào chết IOPE Moisture Skin Soft Peeling Gel 100ml. Tôi luôn chờ đợi đến dịp sale của hãng để mua nó. Giá ở VN là khoảng .
+Dưỡng da là cả một quá trình rất quan trọng và đòi hỏi nhiều bước dưỡng. Và một trong số đó là tẩy tế bào chết (nôm na là tẩy da chết), nó không chỉ làm sạch các lỗ chân lông mà còn lấy đi các tế bào da chết trên mặt bạn. Khi bạn loại bỏ lớp da cũ thì làn da của bạn sẽ sáng hơn, các vết thâm sẽ mờ nhanh hơn và hấp thu dưỡng chất tốt hơn. Vì vậy, hôm nay mình sẽ review cho bạn sản phẩm tẩy tế bào chết IOPE Moisture Skin Soft Peeling Gel 100ml. Mình toàn đợi đến dịp sale của hãng để mua cho rẻ thôi.
 {: style="text-align: justify;"}
 
 <figure style="width: 200px" class="align-center">
@@ -29,10 +29,9 @@ IOPE là một trong những thương hiệu hạng trung của tập đoàn m�
 {: style="text-align: justify;"}
 
 **Hãng giới thiệu**:
-
-   * Thành phần Prebiotic  duy trì cân bằng làn da để tăng cường sức đề kháng tự nhiên của da khỏi các chất có hại.
-   * Nước hazel có tác dụng làm se dịu, nhẹ nhàng ngay cả trên da nhạy cảm.
-   * Chiết xuất cellulose tự nhiên từ cây xanh và chiết xuất lô hội nhẹ nhàng tẩy tế bào da chết, làm da mềm mại mà không bị khô.
+  * Thành phần Prebiotic  duy trì cân bằng làn da để tăng cường sức đề kháng tự nhiên của da khỏi các chất có hại.
+  * Nước hazel có tác dụng làm se dịu, nhẹ nhàng ngay cả trên da nhạy cảm.
+  * Chiết xuất cellulose tự nhiên từ cây xanh và chiết xuất lô hội nhẹ nhàng tẩy tế bào da chết, làm da mềm mại mà không bị khô.
 {: style="text-align: justify;"}
 
 ## Thành phần

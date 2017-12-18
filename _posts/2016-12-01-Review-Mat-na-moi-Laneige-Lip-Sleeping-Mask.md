@@ -26,7 +26,7 @@ toc: true
 Laneige là một trong những nhãn hiệu làm đẹp hạng trung của tập đoàn AmorePacific lớn nhất Hàn Quốc, có một loạt các dòng sản phẩm chất lượng đáng tin cậy. Ra mắt vào năm 1994, Laneige đã khẳng định vị trí của mình và hợp tác với nhiều người nổi tiếng và hiện tại nữ hoàng sắc đẹp Song Hye Kyo là người đại diện của hãng.
 {: style="text-align: justify;"}
 
-**Mặt nạ môi Laneige Lip Sleeping Mask** là một trong những sản phẩm chăm sóc da nổi tiếng và bán chạy nhất của hãng Laneige. Có 4 loại: 베리 (Sweet Berry Complex), 자몽 (Sweet Citrus), 애플 라임 (Citrus Green Fruity) và 바닐라 (Sweet Vanilla). Lúc đầu, mình muốn mua loại berry nhưng mà hết hàng nên đã lấy vanilla. Nhưng thực ra, hai loại này mùi cũng khá giống nhau, chỉ khác màu thôi.
+**Mặt nạ môi Laneige Lip Sleeping Mask** là một trong những sản phẩm chăm sóc da nổi tiếng và bán chạy nhất của hãng Laneige. Có 4 loại: 베리 (Sweet Berry Complex), 자몽 (Sweet Citrus), 애플 라임 (Citrus Green Fruity) và 바닐라 (Sweet Vanilla). Lúc đầu, mình muốn mua loại berry nhưng mà hết hàng nên đã lấy vanilla. Nhưng thực ra, hai loại này mùi cũng khá giống nhau, loại vanilla mùi ngọt hơn.
 {: style="text-align: justify;"} 
 
 ## Bao bì và chất kem
@@ -44,7 +44,7 @@ Trong hộp giấy, hũ kem được đóng gói trong bình thủy tinh có n�
 
 ## Mùi hương
 
-em mạt nạ môi này có mùi ngọt ngào như dâu tây ấy, rất dễ chịu, rất "ngon". Nhưng sau khi xài thì mùi sẽ bay đi.
+Em mặt nạ môi này có mùi ngọt ngào như dâu tây ấy, rất dễ chịu, rất "ngon". Nhưng sau khi xài thì mùi sẽ bay đi.
 {: style="text-align: justify;"}
 
 ## Laneige nói rằng
@@ -72,12 +72,13 @@ Vanilla: Sweet Milky Caramel Creamy
 ## Cách dùng
 
   * Trước khi đi ngủ, dùng cọ lấy một lượng vừa đủ thoa nhẹ nhàng lên môi.
-  * Lau nhẹ môi bằng khăn giấy hoặc bông cotton vào sáng hôm sau
+  * Lau nhẹ môi bằng khăn giấy hoặc bông cotton vào sáng hôm sau.
+
 Mình toàn sử dụng mỗi đêm trước khi đi ngủ và thậm chí là vào ban ngày như loại son dưỡng ẩm bất cứ khi nào thấy khô môi và trước khi trang điểm.
 {: style="text-align: justify;"}
 
 ## Mình thấy là
-Em mặt nạ môi này thật là tuyệt vời. Khi sử dụng nó vào ban đêm, sáng hôm sau dậy môi của mình vẫn mềm mại và được giữ ẩm. Khi tôi sử dụng nó vào ban ngày, cũng thấy hiệu quả ngay lập tức và em này có thể giữ ẩm đến khoảng 2-3 giờ vào mùa đông (~ -3oC). Tất nhiên, bạn sẽ cần phải thoa lại sau khi ăn hoặc uống. Một hũ 20g mà mình xài được lâu lắm nhé, cũng cả hơn nữa năm ấy chứ, nên mình thường tách một ít ra bỏ vào lọ nhỏ để dùng cho vệ sinh. Hơn nữa, mình cũng thích cái mùi dâu ngọt ngào của ẻm nữa.
+Em mặt nạ môi này thật là tuyệt vời. Khi sử dụng nó vào ban đêm, sáng hôm sau dậy môi của mình vẫn mềm mại và được giữ ẩm. Khi tôi sử dụng nó vào ban ngày, cũng thấy hiệu quả ngay lập tức và em này có thể giữ ẩm đến khoảng 2-3 giờ vào mùa đông (~ -3oC). Tất nhiên, bạn sẽ cần phải thoa lại sau khi ăn hoặc uống. Một hũ 20g mà mình xài được lâu lắm nhé, cũng cả hơn nửa năm ấy chứ, nên mình thường tách một ít ra bỏ vào lọ nhỏ để dùng cho vệ sinh. Hơn nữa, mình cũng thích cái mùi dâu ngọt ngào của ẻm nữa.
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
@@ -85,7 +86,7 @@ Em mặt nạ môi này thật là tuyệt vời. Khi sử dụng nó vào ban �
   <figcaption></figcaption>
 </figure>
 
-Tuy nhiên, mình không thấy có tác dụng tấy da chết như hãng tuyên bố. Các bạn có thể thấy nó hơi dính và có vẻ làm "nặng môi". Và nếu bạn sử dụng nó trước khi trang điểm, chỉ cần sử dụng một ít thôi không là sẽ khó bôi son và son sẽ nhanh bị trôi đấy.
+Tuy nhiên, mình không thấy có tác dụng tẩy da chết như hãng tuyên bố. Các bạn có thể thấy nó hơi dính và có vẻ làm "nặng môi". Và nếu bạn sử dụng nó trước khi trang điểm, chỉ cần sử dụng một ít thôi không là sẽ khó bôi son và son sẽ nhanh bị trôi đấy.
 {: style="text-align: justify;"}
 
 Mấy loại mặt nạ ngủ của Laneige chưa bao giờ làm mình thất vọng hết. Mình rất thích em mask môi này và mặt nạ ngủ Water Sleeping Mask của hãng. Chắc chắn mình sẽ mua lại khi dùng hết, nhưng sẽ mua hương khác xem sao.
