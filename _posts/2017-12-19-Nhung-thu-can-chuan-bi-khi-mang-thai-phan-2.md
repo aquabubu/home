@@ -31,7 +31,7 @@ Có rất nhiều hang baby mà các mẹ có thể mua sữa tắm gội cho b�
   <figcaption></figcaption>
 </figure>
 
-Như mình thì mình được một người bạn tư vấn nên mua của hãng **Logona**, rất an toàn cho bé sơ sinh. Sữa tắm gội thì có mùi giống sữa chua, còn sữa dưỡng ẩm và lem mặt thì mùi ngọt như sữa ấy. Đây là một hãng tin cậy của Đức nhưng giá khá mắc. Cho nên mình chỉ xài trong giai đoạn bé còn nhỏ xíu, lớn rồi thì mình sẽ chuyển qua Goongbe (là một hãng baby của Hàn).
+Như mình thì mình được một người bạn tư vấn nên mua của hãng **Logona**, rất an toàn cho bé sơ sinh. Sữa tắm gội thì có mùi giống sữa chua, còn sữa dưỡng ẩm và kem mặt thì mùi ngọt như sữa ấy. Đây là một hãng tin cậy của Đức nhưng giá khá mắc. Cho nên mình chỉ xài trong giai đoạn bé còn nhỏ xíu, lớn rồi thì mình sẽ chuyển qua Goongbe (là một hãng baby của Hàn).
 {: style="text-align: justify;"}
 
 ### <span style="color:orange"> Kem chống hăm </span>
@@ -89,7 +89,7 @@ Lúc bé còn nhỏ thì mình tắm bằng cái chậu nhỏ, sau lớn thì m�
 
 ### <span style="color:crimson"> Phao bơi </span>
 
-<img align="left" style="width:200px; padding: 10px" src="/assets/images/phao.png"> Sau khi bé được 3 tháng là mình xả nước bồn tắm và mặc phao cổ cho bé bơi rồi vì mình đọc thấy bơi sớm giúp bé tăng khả năng giữ thăng bằng, kích hoạt 2 phản xạ bẩm sinh bơi lội quan trọng là nín thở và quẫy đạp. Những lần đầu mình ôm bé tắm chung để bé không sợ, khi bé quen thì mình để bé bơi một mình, đứng bên cạnh nhìn bé. Mẹ nào cho con bơi thì chú ý luôn ở gần và quan sát bé thật kĩ nhé, không được lơ là đâu. Khi bé còn nhỏ thì cho bé bơi 5-7 phút là được rồi, tránh bơi lâu bé sẽ bị lạnh, và nhớ xả nước ấm cho bé nhé.
+<img align="left" style="width:200px; padding: 10px" src="/assets/images/phao.png"> Sau khi bé được 3 tháng là mình xả nước bồn tắm và mặc phao cổ cho bé bơi rồi vì mình đọc thấy bơi sớm giúp bé tăng khả năng giữ thăng bằng, kích hoạt 2 phản xạ bơi lội bẩm sinh  quan trọng là nín thở và quẫy đạp. Những lần đầu mình ôm bé tắm chung để bé không sợ, khi bé quen thì mình để bé bơi một mình, đứng bên cạnh nhìn bé. Mẹ nào cho con bơi thì chú ý luôn ở gần và quan sát bé thật kĩ nhé, không được lơ là đâu. Khi bé còn nhỏ thì cho bé bơi 5-7 phút là được rồi, tránh bơi lâu bé sẽ bị lạnh, và nhớ xả nước ấm cho bé nhé.
 {: style="text-align: justify;"}
 
 Nguồn: Tiến sĩ Phạm Anh Tuấn - Giám đốc Trung tâm E-Bơi (Hà Nội)
@@ -147,7 +147,7 @@ Mình mua áo quần cho trẻ sơ sinh loại ngắn tay + dài tay. Lúc mình
 
 ### <span style="color:olivedrab"> Vớ tay + vớ chân + Nón </span>
 
-Vớ tay + vớ chân thì mỗi thứ mua 5-6 đôi là được rồi, các mẹ mua cùng 1 màu hết thì thay tiện lắm :D
+Vớ tay + vớ chân thì mỗi thứ mua 5-6 đôi là được rồi, các mẹ mua cùng 1 màu hết thì thay tiện lắm :smile:
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
