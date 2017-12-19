@@ -50,19 +50,30 @@ Người mẹ: quan trọng nhất là tránh làm chấn thương vùng kín. T
 ## <span style="color:blue"> Tam cá nguyệt thứ nhất </span>
 
 ###  Bổ sung axit folic
-Khi biết có thai là mình mua viên bổ sung axit folic để uống. Axit folic giúp bảo vệ thai nhi khỏi các khiếm khuyết của ống thần kinh. Đây là một khuyết tật xảy ra ở thai nhi bởi vì một số tế bào thần kinh quanh hệ thần kinh trung ương không hoàn toàn khép kín, đặc biệt là trong 7 tuần đầu của thai kỳ. Ngoài ra, axit folic đóng một vai trò quan trọng trong sự phát triển và phân chia tế bào trong cơ thể của em bé.
-{: style="text-align: justify;"}
-Thiếu axit folic dẫn đến chứng thiếu máu, do thiếu vitamin B12. Hơn nữa, nó cũng làm cho người mẹ có nguy cơ sẩy thai cao, sanh non, dễ mắc chứng rối loạn tâm thần sau sinh, và suy dinh dưỡng ở thai nhi. Trẻ sơ sinh cũng dễ bị bệnh tim mạch, hở hàm ếch nếu người mẹ thiếu axit folic. 
-{: style="text-align: justify;"}
-Nếu có dự định mang thai thì cũng nên bổ sung acid folic trước khoảng 3 tháng nhé. Việc dùng loài axit folic nào với hàm lượng bao nhiêu thì phải hỏi bác sĩ trước nhé. Mình đã dùng một loại thuốc bổ sung axit folic của Hàn từ khi mang thai cho đến hết thai kì.
-{: style="text-align: justify;"}
 
-<figure style="width: 450px" class="align-center">
+<figure style="width: 350px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
+Khi biết có thai là mình mua viên bổ sung axit folic để uống. Axit folic giúp bảo vệ thai nhi khỏi các khiếm khuyết của ống thần kinh. Đây là một khuyết tật xảy ra ở thai nhi bởi vì một số tế bào thần kinh quanh hệ thần kinh trung ương không hoàn toàn khép kín, đặc biệt là trong 7 tuần đầu của thai kỳ. Ngoài ra, axit folic đóng một vai trò quan trọng trong sự phát triển và phân chia tế bào trong cơ thể của em bé.
+{: style="text-align: justify;"}
+Thiếu axit folic dẫn đến chứng thiếu máu, do thiếu vitamin B12. Hơn nữa, nó cũng làm cho người mẹ có nguy cơ sẩy thai cao, sanh non, dễ mắc chứng rối loạn tâm thần sau sinh, và suy dinh dưỡng ở thai nhi. Trẻ sơ sinh cũng dễ bị bệnh tim mạch, hở hàm ếch nếu người mẹ thiếu axit folic. 
+{: style="text-align: justify;"}
+
+<figure style="width: 400px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/acidfolic.png" alt="">
+  <figcaption> Những thực phẩm giàu acid folic ( healthjade.com) </figcaption>
+</figure>
+
+Nếu có dự định mang thai thì cũng nên bổ sung acid folic trước khoảng 3 tháng nhé. Việc dùng loài axit folic nào với hàm lượng bao nhiêu thì phải hỏi bác sĩ trước nhé. Mình đã dùng một loại thuốc bổ sung axit folic của Hàn từ khi mang thai cho đến hết thai kì.
+{: style="text-align: justify;"}
+
+Nguồn: Viện Dinh dưỡng Quốc gia (Bộ Y tế)
+{: style="text-align: justify;"}
+
 ### Ốm nghén 
+
 Thường thì 3 tháng đầu, người mẹ bị nghén nhiều lắm, nhưng sẽ hết khi qua tam cá nguyệt thứ hai. Mỗi người có tuyệt chiêu chống nghén riêng, không ai giống ai, sau đây là một số cách chung:
 {: style="text-align: justify;"}
 
@@ -70,28 +81,32 @@ Thường thì 3 tháng đầu, người mẹ bị nghén nhiều lắm, nhưng 
   * Tránh đồ béo, đồ cay và đồ có mùi dễ gây buồn nôn
   * Nên thủ sẵn bánh trong người (bánh dễ tiêu nha, ít bơ, ít béo, khoai tây lát cũng được), lâu lâu ăn 1 miếng để tránh hạ đường vì hạ đường dễ gây buồn nôn.
 {: style="text-align: justify;"}
+
 Như mình thì mình thủ sẵn một ít trái cây mang đến chỗ làm như chuối, dâu tây, nho, bánh… Khá là hiệu quả với mình.
 {: style="text-align: justify;"}
 
 ### Tập thể dục
+
 Nếu cơ thể người mẹ tốt, có thể tập thể dục tầm 20-30phút/ngày, 7 ngày trong tuần. Đi bộ, bơi, yoga… cái nào tiện thì tập, tránh mấy cái tập nặng mà va chạm nhiều là được (đá banh, bóng chuyền…:sweat_smile:)
 {: style="text-align: justify;"}
+
 Tuy nhiên, theo mình thì giai đoạn này khá nhạy cảm, nếu tập thể dục hoặc vận động nhiều dễ bị xuất huyết cho nên mình không khuyến khích tập thể dục đâu nhé.
 {: style="text-align: justify;"}
 
 ### Về việc ăn uống
-Nếu tính chính xác thì cần 2500 kcal/ngày, tỉ lệ đạm:đường:mỡ là 2:5:3. Nhưng mà mình toàn ăn như bình thường, chỉ tang lượng rau xanh và trái cây thôi. Tốt nhất là ăn vừa đủ, ăn nhiều ngũ cốc, rau xanh, thịt, trái cây, uống sữa, tránh ăn tinh bột, đồ ngọt nhiều (ăn cá nhiều vào, ăn ít nhất 3 bữa cá / 1 tuần, giúp giảm tỉ lệ sinh non ah).
+Nếu tính chính xác thì cần 2500 kcal/ngày, tỉ lệ đạm:đường:mỡ là 2:5:3. Nhưng mà mình toàn ăn như bình thường, chỉ tăng lượng rau xanh và trái cây thôi. Tốt nhất là ăn vừa đủ, ăn nhiều ngũ cốc, rau xanh, thịt, trái cây, uống sữa, tránh ăn tinh bột, đồ ngọt nhiều (ăn cá nhiều vào, ăn ít nhất 3 bữa cá / 1 tuần, giúp giảm tỉ lệ sinh non ah).
 {: style="text-align: justify;"}
 Không hiểu sao các bà mẹ ở VN rất hay mua sữa bầu để uống, việc này không những không cần thiết mà còn dễ làm tăng cân (một trong những nguyên nhân chính làm các mẹ béo không kiểm soát). Mình chỉ uống nhiều nước và sữa tươi thôi. Bác sĩ cũng bảo không cần thiết uống sữa bầu.
 {: style="text-align: justify;"}
 
 ### Tư thế ngủ
 
-<figure style="width: 450px" class="align-center">
+<figure style="width: 350px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby3.png" alt="">
   <figcaption></figcaption>
 </figure>
-Tốt nhất là nằm nghiêng. Bên trái hay phải đều được. Người ta nói tốt hơn là ngủ ở bên trái bởi vì nó sẽ làm tăng lượng máu và chất dinh dưỡng đến nhau thai. Mà mình toàn nằm nghiêng bên phải thôi, chả sao đâu. Giữ chân và đầu gối cong, đặt một cái gối giữa hai chân sẽ giúp thoải mái hơn đấy.
+
+Tốt nhất là nằm nghiêng. Bên trái hay phải đều được. Người ta nóilà ngủ ở bên trái tốt hơn  bởi vì nó sẽ làm tăng lượng máu và chất dinh dưỡng đến nhau thai. Mà mình toàn nằm nghiêng bên phải thôi, chả sao đâu. Giữ chân và đầu gối cong, đặt một cái gối giữa hai chân sẽ giúp thoải mái hơn đấy các mẹ.
 {: style="text-align: justify;"}
 
 ### Đi du lịch khi mang thai
@@ -116,6 +131,12 @@ Nếu đi chơi thì vẫn thắt seat bell nhé để tránh chấn thương, t
  {: style="text-align: justify;"}
   * Sau tháng thứ 4 có thể uống nước dừa (2 quả/tuần). Các mẹ cũng nên quan tâm đến vấn đề bị rạn da vùng bụng nhé. Mình dùng dầu bio oil để bôi lên vùng bụng ấy, nhưng chả thấy có tác dụng nhiêu. Nhưng bạn mình dùng thì khen tốt…cho nên quy về một câu là tùy cơ địa thôi các mẹ ạ.
 {: style="text-align: justify;"}
+
+<figure style="width: 300px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/biooil.png" alt="">
+  <figcaption></figcaption>
+</figure>
+
   *  Cách bôi dầu lên bụng cũng cần chú ý nhé: Đổ dầu vào lòng bàn tay và nhẹ nhàng thoa vào bụng. Nhớ tránh chà xát quanh bụng vì nó làm cho tử cung co bóp dễ sinh non. Mình xài liên tục cho đến khi sinh, hai lần mỗi ngày vào buổi sáng trước khi đi làm và buổi tối trước khi ngủ.
 {: style="text-align: justify;"}
 

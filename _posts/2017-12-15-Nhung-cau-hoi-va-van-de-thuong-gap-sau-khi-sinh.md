@@ -57,7 +57,7 @@ Vấn đề này mình cũng không rành, vì có rất nhiều loại sữa ch
 <img align="left" style="width: 170px; padding: 10px" src="/assets/images/goat.png">**ILDONG FOODIS Goat Milk**: Sữa này đắt hơn I Am Mother một chút và ít tanh hơn. Sau khi bé được tầm 4 tháng thì mình chuyển qua dùng sữa dê núi này vì nó không chỉ có thành phần dinh dưỡng cao mà còn rất tốt cho hệ tiêu hóa của bé. Từ lúc uống sữa dê núi, bé nhà mình đi tiêu đều đặn và dễ dàng. Từ sau 6 tháng mình tập cho bé ăn dặm và vẫn uống sữa là chính nhưng bé không hề có dấu hiệu táo bón khó tiêu gì hết. Ngày nào cũng “tặng” đều đều.
 {: style="text-align: justify;"}
 
-## <span style="color:indigo"> Bảo quản sữa đúng cách </span>
+## <span style="color:indigo"> Bảo quản + pha sữa sữa đúng cách </span>
 
 Đối với sữa mẹ, nếu mẹ nào hút sữa ra để trữ thì có thể đựng trong túi trữ sữa, sữa mẹ vắt ra để ở nhiệt độ từ 25oC đến 35oC giữ được 6 giờ đến 8 giờ, sữa trữ đông có thể để được 3 tháng, sữa trữ ngăn mát 4oC thì để được 3-5 ngày, khi trữ sữa thì nhớ ghi chú ngày hút để biết nhé các mẹ. 
 {: style="text-align: justify;"}
@@ -66,6 +66,9 @@ Sữa công thức khi để ngăn mát có thể giữ đến 24 tiếng, nh
 {: style="text-align: justify;"}
 
 Và một điều cần lưu ý là phải hâm nóng sữa trước khi cho bé ti, khi hâm nóng sữa có thể dùng nước ấm hoặc máy hâm sữa chuyên dụng. Tuyệt đối KHÔNG dùng lò vi sóng để hâm nóng hoặc đun sôi sữa vì nó sẽ làm mất các chất dinh dưỡng trong sữa.
+{: style="text-align: justify;"}
+
+Khi pha sữa cần theo đúng lượng hướng dẫn trên vỏ hộp. Ví dụ, để pha 240ml : 6 muỗng sữa bột,  thì cho ~200ml nước ấm vào bình sữa trước, sau đó thêm 6 muỗng sữa bột,  đổ thêm nước ấm vào để tổng lượng sữa đạt vạch 240ml, lắc đều cho sữa tan. Các mẹ chú ý khi múc thì gạt bớt sữa bột cho vừa đúng với muỗng sữa bột đã cung cấp, không múc quá nhiều hay quá ít sữa bột. Vệ sinh tay sạch sẽ và dùng bình đã tiệt trùng để pha, dùng nước ấm 40-50oC để pha sữa.
 {: style="text-align: justify;"}
 
 ## <span style="color:teal"> Nên cho bé ti mẹ hay ti bình? </span>
