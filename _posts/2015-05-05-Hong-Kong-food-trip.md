@@ -9,7 +9,7 @@ tags:
 - 홍콩음식
 - amthuchongkong
 header:
-  teaser: assets/images/hkfood-2.png
+  teaser: assets/images/hkfood-18.png
 layout: single
 author_profile: true
 read_time: true
