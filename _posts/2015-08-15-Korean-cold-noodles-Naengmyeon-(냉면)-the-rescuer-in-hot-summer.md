@@ -11,7 +11,7 @@ tags:
 - summerfood
 - thingtoeatinkorea
 header:
-  teaser: assets/images/nengmyeon-1.png
+  teaser: assets/images/nengmyeon.png
 layout: single
 author_profile: true
 read_time: true

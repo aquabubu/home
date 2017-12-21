@@ -11,7 +11,7 @@ tags:
 - 후시미이나리타이샤
 - 일본여행
 header:
-  teaser: assets/images/taisha-1.png
+  teaser: assets/images/taisha.png
 layout: single
 author_profile: true
 read_time: true

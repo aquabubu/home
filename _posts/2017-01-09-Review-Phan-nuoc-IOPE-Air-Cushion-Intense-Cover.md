@@ -7,7 +7,7 @@ tags:
 - trangdiemtunhien
 - myphamhanquoc
 header:
-  teaser: assets/images/iopecushion-1.png
+  teaser: assets/images/iopecushion.png
 layout: single
 author_profile: true
 read_time: true
