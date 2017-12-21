@@ -8,7 +8,7 @@ tags:
 - travelexspense
 - kinhnghiemdulichhongkong
 header:
-  teaser: assets/images/hongkong.png
+  teaser: assets/images/hk.png
 layout: single
 author_profile: true
 read_time: true
