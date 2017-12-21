@@ -93,7 +93,7 @@ I also tried the King’s clothes there though I had to stand in the long line w
 </figure>
 
 ### <span style="color:olive"> Tips </span>
-  * If you wanna try the night season, from 7 p.m to 10 p.m,  you need to make a reservation which is only available on the Inter Park Website. Besides, it’s not available all year round, so you need to check. (I didn’t try it last time so I definitely book it if I go again.)
+  * If you wanna try the night season, from 7 p.m to 10 p.m,  you need to make a reservation which is only available on the <a href="http://ticket.interpark.com/Global/index.asp" target="_blank">Inter Park Website</a>. Besides, it’s not available all year round, so you need to check. (I didn’t try it last time so I definitely book it if I go again.)
   * If you go to Gyeongbok palace in summer, I recommend you not to go there in the day time, it’s scorching weather. 😓😓😓
   * The best time to go to Gyeongbok palace is spring and Autumn. Trust me! Cherry blossom in spring and red maple leaves in Autumn will make your photos fabulous. :blue_heart:
   * My Korean friend said that if you rent the Hanbok (Korean Traditional clothes) from some shops around the palace, you can get free ticket to enter and take nice photos with the Hanbok. I didn’t try it yet.
