@@ -106,10 +106,10 @@ Wonderful flowers in a seasonal garden such as tulips, roses are in bloom throug
 This is my most favorite zone in Everland theme park. ZooTopia is an animal-themed portion including a petting zoo, pony rides, and animal shows. You can see polar bears, sea lions, penguins, bears, tigers, and primates in a tiny zoo as well.
 {: style="text-align: justify;"}
 
-<img align="left" style="width: 150px; padding: 10px" src="/assets/images/everland-11.png"> Safari Bus, Lost Valley, and Amazone Express are the most exciting attractions in this zone that you MUST NOT miss them.
+<img align="left" style="width: 150px; padding: 10px" src="/assets/images/everland-11.png"> **Safari Bus**, **Lost Valley**, and **Amazone Express** are the most exciting attractions in this zone that you MUST NOT miss them.
 {: style="text-align: justify;"}
 
-<img align="right" style="width: 150px; padding: 10px" src="/assets/images/everland-15.png">**Safari Bus**, **Lost Valley**, and **Amazone Express** are the most exciting attractions in this zone that you MUST NOT miss them. The Safari Bus ride shows animals such as ligers and bears in a contained habitat while the visitors stay inside the bus. Amazon Express is a raft ride, where most visitors get a cool splash of water along the 580-meter long water path. And for the Lost Valley that you will move from water to land, it has approximately 150 unique animal species roam freely.
+<img align="right" style="width: 150px; padding: 10px" src="/assets/images/everland-15.png"> The Safari Bus ride shows animals such as ligers (a hybrid of lion and tiger) and bears in a contained habitat while the visitors stay inside the bus. Amazon Express is a raft ride, where most visitors get a cool splash of water along the 580-meter long water path. And for the Lost Valley that you will move from water to land, it has approximately 150 unique animal species roam freely.
 {: style="text-align: justify;"}
 
 <div style="text-align: center">
