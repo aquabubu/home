@@ -10,7 +10,7 @@ tags:
 - koreancosmetic
 - myphamhanquoc
 header:
-  teaser: assets/images/concealer-1.png
+  teaser: assets/images/in2.png
 layout: single
 author_profile: true
 read_time: true
