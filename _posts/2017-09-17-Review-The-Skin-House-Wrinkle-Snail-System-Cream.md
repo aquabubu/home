@@ -9,7 +9,7 @@ tags:
 - kemocsentheskinhouse
 - aquabubu
 header:
-  teaser: assets/images/snail-1.png
+  teaser: assets/images/snail.png
 layout: single
 author_profile: true
 read_time: true

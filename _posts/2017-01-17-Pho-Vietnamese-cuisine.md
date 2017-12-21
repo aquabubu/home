@@ -9,7 +9,7 @@ tags:
 - aquabubu
 - 베트남음식
 header:
-  teaser: assets/images/pho-1.png
+  teaser: assets/images/pho.png
 layout: single
 author_profile: true
 read_time: true

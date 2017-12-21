@@ -8,7 +8,7 @@ tags:
 - dulichhanquoc
 - aquabubu
 header:
-  teaser: assets/images/gung-1.png
+  teaser: assets/images/gbbg.png
 layout: single
 author_profile: true
 read_time: true

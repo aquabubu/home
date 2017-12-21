@@ -9,7 +9,7 @@ tags:
 - 방콕태국여행
 - dulichbangkok
 header:
-  teaser: assets/images/bangkok2-6.png
+  teaser: assets/images/bg-2.png
 layout: single
 author_profile: true
 read_time: true

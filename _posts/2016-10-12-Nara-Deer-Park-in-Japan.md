@@ -8,7 +8,7 @@ tags:
 - 일본여행
 - aquabubu
 header:
-  teaser: assets/images/nara-1.png
+  teaser: assets/images/nara.png
 layout: single
 author_profile: true
 read_time: true

@@ -7,7 +7,7 @@ tags:
 - chamsocda
 - aquabubu
 header:
-  teaser: assets/images/laneige-1.png
+  teaser: assets/images/ln.png
 layout: single
 author_profile: true
 read_time: true

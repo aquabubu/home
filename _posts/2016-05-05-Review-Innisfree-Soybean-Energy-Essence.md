@@ -9,7 +9,7 @@ tags:
 - tinhchatduonginnisfree
 - aquabubu
 header:
-  teaser: assets/images/innissoybean-1.png
+  teaser: assets/images/in1.png
 layout: single
 author_profile: true
 read_time: true

@@ -3,7 +3,7 @@ title: Review - Laneige Lip Sleeping Mask
 categories: null
 tags: null
 header:
-  teaser: assets/images/lipmask-1.png
+  teaser: assets/images/lipmask.png
 layout: single
 author_profile: true
 read_time: true

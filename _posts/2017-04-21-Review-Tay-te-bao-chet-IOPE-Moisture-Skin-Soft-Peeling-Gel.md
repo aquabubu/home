@@ -7,7 +7,7 @@ tags:
 - duongdahangngay
 - aquabubu
 header:
-  teaser: assets/images/iopepeeling-1.png
+  teaser: assets/images/iopepeel.png
 layout: single
 author_profile: true
 read_time: true

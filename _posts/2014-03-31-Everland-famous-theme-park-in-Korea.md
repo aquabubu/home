@@ -11,7 +11,7 @@ tags:
 - dulichhanquoc
 - 여행
 header:
-  teaser: assets/images/everland-1.png
+  teaser: assets/images/evlbg.png
 layout: single
 author_profile: true
 read_time: true

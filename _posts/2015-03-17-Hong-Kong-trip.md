@@ -10,7 +10,7 @@ tags:
 - dulichhongkong
 - 홍콩여행
 header:
-  teaser: assets/images/hongkong-1.png
+  teaser: assets/images/hk1.png
 layout: single
 author_profile: true
 read_time: true

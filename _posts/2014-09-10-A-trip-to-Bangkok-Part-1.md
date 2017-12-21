@@ -8,7 +8,7 @@ tags:
 - 방콕
 - 태국
 header:
-  teaser: assets/images/bangkok-1.png
+  teaser: assets/images/bg-1.png
 layout: single
 author_profile: true
 read_time: true
