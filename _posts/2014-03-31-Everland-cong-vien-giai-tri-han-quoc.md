@@ -89,17 +89,17 @@ Những khu vườn hoa tuyệt theo mùa như hoa tulip, hoa hồng nở rộ s
 <div style="text-align: center">
   <div style="display: inline-block; padding:10px">
     <img src="/assets/images/everland-12.png" width="170px">
-		<div style="font-size: 20px" class="caption"> Seal </div>
+		<div style="font-size: 20px" class="caption"> Hải cẩu </div>
   </div>
 	
   <div style="display: inline-block; padding:10px">
     <img src="/assets/images/everland-13.png" width="150px">
-    <div style="font-size: 20px" class="caption"> Camel </div>
+    <div style="font-size: 20px" class="caption"> Lạc đà </div>
   </div>
 	
 	<div style="display: inline-block; padding:10px">
     <img src="/assets/images/everland-14.png" width="131px">
-    <div style="font-size: 20px" class="caption"> Monkey </div>
+    <div style="font-size: 20px" class="caption"> Khỉ </div>
    </div>
 </div>
 
