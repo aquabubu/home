@@ -1,7 +1,7 @@
 ---
 title: Review - Kem che khuyết điểm Innisfree Mineral Essential Concealer SPF30 PA++
   6.5g
-categories: Làm-đẹp
+categories: Beauty
 tags:
 - Innisfree Mineral Essential Concealer SPF30 PA++ 6.5g
 - chekhuyetdiem

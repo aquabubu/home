@@ -1,6 +1,6 @@
 ---
 title: Review - Phấn nước IOPE Air Cushion Intense Cover
-categories: Làm đẹp
+categories: Beauty
 tags:
 - aquabubu
 - phannuociope

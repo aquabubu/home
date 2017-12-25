@@ -1,6 +1,6 @@
 ---
 title: Review - Mặt nạ môi Laneige Lip Sleeping Mask
-categories: Làm đẹp
+categories: Beauty
 tags:
 - laneigelipsleepingmask
 - matnangumoilaneige

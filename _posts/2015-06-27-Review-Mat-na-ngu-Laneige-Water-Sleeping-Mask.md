@@ -1,6 +1,6 @@
 ---
 title: Review - Mặt nạ ngủ Laneige Water Sleeping Mask
-categories: Làm đẹp
+categories: Beauty
 tags:
 - matnangulaneigewatersleepingmask
 - maskngulaneige

@@ -262,5 +262,5 @@ At Ocean Park, it's not allowed to bring food but water. Ocean Park is so large
 There is one room for different types of goldfish. There are also Brazilian spider, pandas, foxes, and even forest cockroaches. At 8 p.m, the 3D water show is really worth watching (just like the fireworks show at Disneyland).
 {: style="text-align: justify;"}
 
-So, this is the end of my Hong Kong trip.  You can also take a look at my posts of  <a href="http://aquabubu.com/cuisine/Hong-Kong-food-trip/" target="_blank">Hong Kong food review</a> and  <a href="http://aquabubu.com/travel/Hong-Kong-traveling-tips/" target="_blank"> traveling tips</a>. Hope you'll find it helpful if you plan to go to Hong Kong.
+So, this is the end of my Hong Kong trip.  You can also take a look at my posts of  <a href="http://aquabubu.com/blog/cuisine/Hong-Kong-food-trip/" target="_blank">Hong Kong food review</a> and  <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank"> traveling tips</a>. Hope you'll find it helpful if you plan to go to Hong Kong.
 {: style="text-align: justify;"}

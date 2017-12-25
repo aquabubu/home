@@ -1,6 +1,6 @@
 ---
 title: Khi mang thai nên làm gì?
-categories: Bé yêu
+categories: Baby
 tags:
 - lamgikhimangthai
 - caccauhoithuonggapkhimangthai

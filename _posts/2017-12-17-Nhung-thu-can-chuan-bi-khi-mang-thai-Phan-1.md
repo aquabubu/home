@@ -1,9 +1,9 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai - Phần 1
-categories: Bé-yêu
+categories: Baby
 tags:
 - nhungthucanchuanbikhimangthai
-- dochome
+- dochomebau
 - vatdungcanthiet
 - aquabubu
 header:
@@ -106,4 +106,4 @@ Mẹ nào hút sữa ra thì nên mua túi trữ sữa chuyên dụng đ�
 Việc kiểm tra nhiệt độ của bé rất quan trọng, vì đối với bé sơ sinh, chỉ cần bị sốt là nguy hiểm rồi nhé.  Mình mua của hãng Braun, dùng cho bé sơ sinh va người lớn luôn.
 {: style="text-align: justify;"}
 
-Những đồ vật và quần áo cần sắm cho bé yêu mình sẽ post ở <a href="http://aquabubu.com/Nhung-thu-can-chuan-bi-khi-mang-thai-Phan-1/" target="_blank">đây</a>.
+Những đồ vật và quần áo cần sắm cho bé yêu mình sẽ post ở <a href="http://aquabubu.com/blog/baby/Nhung-thu-can-chuan-bi-khi-mang-thai-Phan-1/" target="_blank">đây</a>.

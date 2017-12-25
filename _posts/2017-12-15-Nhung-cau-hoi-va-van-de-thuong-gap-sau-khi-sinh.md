@@ -1,6 +1,6 @@
 ---
 title: Những câu hỏi và vấn đề thường gặp sau khi sinh
-categories: Bé-yêu
+categories: Baby
 tags:
 - nhungcauhoivavandethuonggapsaukhisinh
 - suamehaysuacongthuc

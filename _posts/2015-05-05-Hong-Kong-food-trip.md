@@ -197,4 +197,4 @@ As for the dim sum, here is the famous dim sum restaurant so the dim sum dishes
 </figure>
 
 No wonder why Hong Kong is called Gourmet paradise, their cuisine is wonderful! If I travel to Hong Kong again, it's certainly because of their food. Hope this post is helpful to you guys if you are planning to go to Hong Kong.
-Chek for more information of <a href="http://aquabubu.com/travel/Hong-Kong-trip/" target="_blank">places to go</a>  and <a href="http://aquabubu.com/travel/Hong-Kong-traveling-tips/" target="_blank">travelling tips</a> in Hong Kong.
+Chek for more information of <a href="http://aquabubu.com/blog/travel/Hong-Kong-trip/" target="_blank">places to go</a>  and <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank">travelling tips</a> in Hong Kong.
