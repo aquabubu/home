@@ -64,7 +64,7 @@ After leaving Chatuchak Market, we accidentally found out JJ Green Market with s
 
 ## <span style="color:deepskyblue"> Madame Tussauds and Ocean Park </span>
 
-Located on the 6th floor of **Siam Discovery Center**, there is just one thing to do in this no old-fashioned wax museum: SELFIE. You can have a chance to rub shoulders with world celebrities, heads of state, sports heroes and heroines,… Madame Tussauds launched its 10th attraction in Dec 2010, with 70 wax figures and still counting. It took us around 1.5 hours to this museum.
+Located on the 6th floor of **Siam Discovery Center**, there is just one thing to do in this no old-fashioned wax museum: SELFIE. You can have a chance to rub shoulders with world celebrities, heads of state, sports heroes and heroines,… Madame Tussauds launched its 10th attraction in Dec 2010, with 70 wax figures and still counting. It took us around 1.5 hours to explore this museum.
 {: style="text-align: justify;"}
 
 Leaving Siam Discovery to Siam Center, there is an **Ocean Park** in the basement. Ocean Park in Thailand is literally “ocean” park, that is just the animals in the sea to see.

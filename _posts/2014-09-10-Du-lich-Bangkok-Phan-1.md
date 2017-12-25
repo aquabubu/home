@@ -67,6 +67,9 @@ Bánh xèo Thái giòn giòn khá giống như bánh xèo Việt Nam nhưng 
 Chùa Bình Minh là ngôi chùa lâu đời nhất của Bangkok. Khi vua Thaksin quyết định xây dựng thủ đô mới của mình ở Thonburi, ông đã đến đây vào lúc bình minh. Điều thú vị nhất của chùa Bình Minh chính là cách trang trí của các cổng đền: Chúng được xây bằng gạch và phủ đầy đồ sứ Trung Quốc đầy màu sắc.
 {: style="text-align: justify;"}
 
+Nếu bạn mặc quần hay váy ngắn thì bạn phải thuê một miếng vải dài để phủ chân đấy. Vì nơi này khá đông người nên mang theo đồ của riêng bạn để tránh mất thời gian.
+{: style="text-align: justify;"}
+
 <figure style="width: 650px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-4.png" alt="">
   <figcaption> </figcaption>

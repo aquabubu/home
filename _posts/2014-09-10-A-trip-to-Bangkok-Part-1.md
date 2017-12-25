@@ -68,6 +68,9 @@ Thai crispy pancake looks like Vietnamese pancakes but the taste is totally dife
 Wat Arun is Bangkok's oldest temple. When King Thaksin decided to build his new capital in Thonburi he came here at dawn. So he renamed it Wat Jang, "Jang" means the cleanness, brightness of dawn. The most interesting of Wat Arun temple is the decoration of the temple gates. They are built of brick and covered with colorful Chinese porcelain.
 {: style="text-align: justify;"}
 
+If you wear shorts, short skirts and tank top, you must hire a long cloth to cover. As the place is quite crowded, bring your own cloth to avoid time-consuming if possible.  
+{: style="text-align: justify;"}
+
 <figure style="width: 650px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-4.png" alt="">
   <figcaption> </figcaption>
