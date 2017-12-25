@@ -1,6 +1,6 @@
 ---
 title: Công viên giải trí Everland
-categories: Du lịch Hàn Quốc
+categories: Travel
 tags:
 - congvienchudeeverland
 - everlandhanquoc
