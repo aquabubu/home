@@ -19,7 +19,7 @@ related: true
 toc: true
 ---
 
-Bài viết này sẽ giới thiệu tiếp về các địa điểm du lịch ở Bangkok. Trong <a href="http://aquabubu.com/travel/Du-lich-Bangkok-Phan-1/" target="_blank">phần 1</a>, mình đã giới thiệu về một vài nơi và dừng lại ở Chùa Bình Minh, và từ chỗ này, mình đã đến Wat Pho và Cung điện hoàng gia (Grand Palace).
+Bài viết này sẽ giới thiệu tiếp về các địa điểm du lịch ở Bangkok. Trong <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-1/" target="_blank">phần 1</a>, mình đã giới thiệu về một vài nơi và dừng lại ở Chùa Bình Minh, và từ chỗ này, mình đã đến Wat Pho và Cung điện hoàng gia (Grand Palace).
 {: style="text-align: justify;"}
 
 ##  <span style="color:red">  Wat Pho & Grand Palace </span>
