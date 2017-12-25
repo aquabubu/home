@@ -35,7 +35,7 @@ Bến Central Pier cung cấp một loại phương tiện giao thông trên s�
 
 <figure style="width: 650px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-1.png" alt="">
-  <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> Cảnh quan hai bên bờ nhìn từ thuyền </span> </figcaption>
+  <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> Cảnh quan hai bên bờ nhìn từ Chao Phraya Express Boat </span> </figcaption>
 </figure>
 
 Nếu bạn đến Bangkok du lịch, đừng bỏ lỡ chuyến tàu trên sông này nhé. Bạn có thể nhìn thấy Bangkok từ một góc độ hoàn toàn mới đấy! Bạn cũng có thể ghé thăm nhiều điểm tham quan như chùa Bình Minh (Wat Arun) và bức tượng Đức Phật nổi tiếng ở Wat Pho. Nhưng tôi đã quyết định đến Chợ nổi Taling Chan nổi tiếng trước tiên.
@@ -81,4 +81,4 @@ Nếu leo hết cầu thang đá trên ban công, bạn có thể nhìn thấy 
 Nằm bên cạnh bờ sông, chùa Bình Minh thật sự là một trong những điểm tham quan tuyệt vời của thủ đô Bangkok. Đây là một biểu tượng của ngành du lịch Bangkok với kiến trúc kiểu Thái đặc biệt.
 {: style="text-align: justify;"}
 
-Phần tiếp theo của chuyến du lịch Bangkok mình sẽ viết ở <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-2/" target="_blank">đây </a> nhé.
+Phần tiếp theo của chuyến du lịch Bangkok mình sẽ viết ở <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-2/" target="_blank">đây </a>nhé.
