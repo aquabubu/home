@@ -2,12 +2,10 @@
 title: Hong Kong trip
 categories: Travel
 tags:
-- hongkongtrip
 - hongkongtravel
+- placestogoinhongkong
 - hongkongdisneyland
-- hongkongoceanpark
 - aquabubu
-- dulichhongkong
 - 홍콩여행
 header:
   teaser: assets/images/hk1.png
@@ -20,10 +18,10 @@ related: true
 toc: true
 ---
 
-In this post, I will introduce the attractions in Hong Kong that I've been during my itinerary.
+In this post, I will introduce the attractions that I've visited during my trip in Hong Kong.
 
 ## <span style="color:Green"> At the airport </span>
-After arriving and finishing all the procedures, I took my time go around the restricted area since there are many shops. Once you go out of this area, you can’t enter again. And, when I went out of the restricted area, I took all types of maps with me. I recommend you to take all of them (especially Hong Kong maps & MTR maps), they are placed near the customer service counter.
+After finishing all the procedure, I was walking around the restricted area inside the airport because there were so many shops. Once you leave this area, you will not be able to get back in. After that, I took all the maps (especially Hong Kong map and MTR map), they are located near the customer service counter.
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
@@ -31,7 +29,7 @@ After arriving and finishing all the procedures, I took my time go around the re
   <figcaption></figcaption>
 </figure>
 
-I bought 2 Otopus cards in the central circular counter labeled Train Express Ticket at HK$150 (~$19), including HK$50 for deposit and HK$100 for transportation. Before I left, I returned it and could get back the excess money and deposit, but it cost HK$10 for the service fee. I also bought a Hong Kong Tourist SIM Card 3G-free for 5 days HK$69 (~$8) at 7-Eleven store in the airport.
+I bought two Otopus cards labeled Train Express Ticket at the central information counter, HK$150 (~$19), including HK$50 for deposit and HK$100 for recharging card. Before I left Hong Kong, I returned that cards to get back the excess money and my deposit but it cost HK$10 for the service. I also bought a Hong Kong Tourist SIM card 3G-free for 5 days, it cost HK$69 at the 7-Eleven store in the airport.
 {: style="text-align: justify;"}
 
 ## <font color="#ED031D">D</font><font color="#8606B3">I</font><font color="#05A3D9">S</font><font color="#A6FC9C">N</font><font color="#DD103A">E</font><font color="#86136A">Y</font><font color="#3FBCC6">L</font><font color="#3818EC">A</font><font color="#7EE374">N</font><font color="#CE9CF8">D</font>
@@ -41,18 +39,18 @@ I bought 2 Otopus cards in the central circular counter labeled Train Express Ti
   <figcaption></figcaption>
 </figure>
 
-I used Disneyland MTR to get there. It had its own design and looked so cool reminding me of Disney channel. Recommend you to go early and get there at 10 a.m, you can save much time for playing. To enter Disneyland, you can access <a href="https://www.kkday.com/en/product/2301" target="_blank">this website</a> to buy ticket online at a cheaper price.
+I went to Disneyland by MTR. A design with lots of Mickey Mouse on the MTR Disney looks so nice, reminding me of the Disney channel I usually watch. You should go there early and arrive at Disney Land 10 a.m for saving your time to play. For more information, check Disney Land <a href="https://www.kkday.com/en/product/2301" target="_blank">website</a>. Buying tickets online on this site will also be cheaper.
 {: style="text-align: justify;"}
 
-However, you can’t bring food or drink into this place. In my opinion, you should follow the schedule of the show, for example: seeing the schedule, if the show of game A is about to start, then you can move to the area of game A first, then move to the area of the next show. I missed 2 shows when I was there because I spent too much time moving from each area and Disneyland is very large. I tried the outdoor games first, and indoor games later. There were fireworks at 9 p.m, it was really beautiful.
+However, do not bring food or drink into this place. As my experience here, you should follow the show's schedule, eg: see the schedule, if show A is about to start, then you should move to the area of A first, then move to the area of the next show. I missed two shows because of wasting time moving around since Disneyland is very wide. I played outdoor games first then indoor games. There are fireworks at 9 p.m, nice!
 {: style="text-align: justify;"}
 
 I didn't eat much in Disneyland although the Market Home Bakery on the Main Street in here has the hot dog - cheap, but crispy and taste good. You can eat later since the foods in Hong Kong are really delicious that can't be missed.
 {: style="text-align: justify;"}
 
-## <font color="#CE9CF8">CHI LIN</font> - <font color="##3818EC">LIAN GARDEN</font> - <font color="#05A3D9">WONG TAI SIN</font> - <font color="#7EE374">PEAK TRAM</font> - <font color="#DD103A">TSIM SHA TSUI CLOCK TOWER</font>
+## <font color="#CE9CF8">CHI LIN</font> - <font color="##3818EC">NAN LIAN GARDEN</font> - <font color="#05A3D9">WONG TAI SIN</font> - <font color="#7EE374">PEAK TRAM</font> - <font color="#DD103A">TSIM SHA TSUI CLOCK TOWER</font>
 
-For all these places, I spent one day and I used MTR a lot. So, the advice is that you can buy the Day Pass HK$55 if the total fee for MTR in every station you pass higher than HK$55. But it’s fine using Otopus card.
+To go to these places, I spent a whole day and using a lot of MTR. So, my advice is to buy a Day Pass Ticket HK$55 if the total fee for the MTR at each station you pass is higher than HK$55. If not, Otopus card is still okay.
 {: style="text-align: justify;"}
 
 ### <font color="#CE9CF8">Chi Lin Nunnery</font>  & <font color="#3818EC">Lian Garden</font>
@@ -60,7 +58,7 @@ For all these places, I spent one day and I used MTR a lot. So, the advice is th
 When arriving at Diamond Hill Station, go out of Exit C2, follow the signs and walk for around five minutes. Chi Lin Nunnery was renovated in Tang dynasty style. It is a large temple complex of elegant wooden architecture including a series of temple halls, some of which contain gold, clay and wooden statues representing divinities such as the Sakyamuni Buddha and bodhisattvas.
 {: style="text-align: justify;"}
 
-Lian Garden is a public park also built in the style of the Tang dynasty. Its scenic garden is meticulously landscaped in which every hill, rock, body of water, plant and timber structure has been placed according to specific rules and methods.
+Nan Lian Garden is a public park also built in the style of the Tang dynasty. Its scenic garden is meticulously landscaped in which every hill, rock, body of water, plant and timber structure has been placed according to specific rules and methods.
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
@@ -96,7 +94,7 @@ Some exhibitions open at 10 a.m and most of the exhibition halls don’t allow t
 	 
 <table>
   <tr>
-	<th style="text-align:center; font-size:25px;color:#3818EC; font-weight:bold" colspan="2"> Lian Garden </th>
+	<th style="text-align:center; font-size:25px;color:#3818EC; font-weight:bold" colspan="2"> Nan Lian Garden </th>
      </tr>
 	
     <tr>
@@ -156,7 +154,7 @@ There are also sortilege and many things to see. In the temple, there is a statu
 	 
 ### <font color="#7EE374"> Peak Tram & Tsim Sha Tsui Clock Tower </font>
 
-From MTR Central station, find the 15C bus stop right in front of City Hall, the bus stops at Peak Tram. For Peak Tram information, click here. You can enjoy beautiful landscapes of Hong Kong while riding Peak Tram.
+From MTR Central station, find the 15C bus stop right in front of City Hall, the bus stops at Peak Tram. For Peak Tram information, click <a href="https://www.thepeak.com.hk/en/2_1.asp" target="_blank">here</a>. You can enjoy beautiful landscapes of Hong Kong while riding Peak Tram.
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
@@ -237,7 +235,7 @@ The Temple market is more famous to locals because there is a big temple at the 
 Walk along Nathan Road to Kansu Street from Temple Market, then continue along Kansu Street until you reach the Jade Market. This market is full of stalls selling everything from China’s ornamental green stone to pearls, precious gems, and antique items. Jade Market is an ideal place to get your hands on fabulous jewelry pieces, and great gifts back home.
 {: style="text-align: justify;"}
 
-## <font color="royalblue">OCEAN PARK </font>
+## <font color="royalblue"> OCEAN PARK </font>
 
 **Address**: Ocean Park, Aberdeen, Hong Kong
 
@@ -262,5 +260,5 @@ At Ocean Park, it's not allowed to bring food but water. Ocean Park is so large
 There is one room for different types of goldfish. There are also Brazilian spider, pandas, foxes, and even forest cockroaches. At 8 p.m, the 3D water show is really worth watching (just like the fireworks show at Disneyland).
 {: style="text-align: justify;"}
 
-So, this is the end of my Hong Kong trip.  You can also take a look at my posts of  <a href="http://aquabubu.com/blog/cuisine/Hong-Kong-food-trip/" target="_blank">Hong Kong food review</a> and  <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank"> traveling tips</a>. Hope you'll find it helpful if you plan to go to Hong Kong.
+So, this is the end of my Hong Kong trip.  You can also take a look at my posts of  <a href="http://aquabubu.com/blog/cuisine/Am-thuc-Hong-Kong/" target="_blank">Hong Kong food review</a> and  <a href="http://aquabubu.com/blog/travel/Kinh-nghiem-du-lich-Hong-Kong/" target="_blank"> traveling tips</a>. Hope you'll find it helpful if you plan to go to Hong Kong.
 {: style="text-align: justify;"}
