@@ -156,7 +156,7 @@ Located in the middle of Ladies Market and slightly covered by stalls in the mar
 
 ## <font color="maroon">Wai Kee Noodle Cafe </font>
 
-From Sham Shui Po station, it took 1 min walk from Exit B2. This place open at 6:30 a.m. This place is also crowded and they don't use chopsticks, just use spoon and folk. If it's pig liver noodle that you want, come here! Though the noodle looks messy, the taste is really good. And if you drink milk tea, choose the ice one, it's much better.
+From Sham Shui Po station, it took 1 min walk from Exit B2. This place open at 6:30 a.m. This place is also crowded and they don't use chopsticks, just use spoon and fork. If it's pig liver noodle that you want, come here! Though the noodle looks messy, the taste is really good. And if you drink milk tea, choose the ice one, it's much better.
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
@@ -181,7 +181,7 @@ You definitely can't miss the unique **Taufu Fa** of this place. Tau Fu Fa was 
 
 ## <font color="darkorange">  Lin Heung Tea House (160 Wellington)</font>
 
-Finally, the best restaurant of the most delicious dim sum in Hong Kong. You need to have a small piece of paper to order food. The waiter will bring the paper and ask what we want to drink. Tea is free here and they will give you a tea set. If you don't know what to do with the tea set, don't worry, the elder around you will teach you even though they don't speak English.
+Finally, the best restaurant of the most delicious dim sum in Hong Kong. You need to have a small piece of paper to order food. The waiter will bring the paper and ask what you want to drink. Tea is free here and they will give you a tea set. If you don't know what to do with the tea set, don't worry, the elder around you will teach you even though they don't speak English.
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
@@ -197,4 +197,4 @@ As for the dim sum, here is the famous dim sum restaurant so the dim sum dishes
 </figure>
 
 No wonder why Hong Kong is called Gourmet paradise, their cuisine is wonderful! If I travel to Hong Kong again, it's certainly because of their food. Hope this post is helpful to you guys if you are planning to go to Hong Kong.
-Chek for more information of <a href="http://aquabubu.com/blog/travel/Hong-Kong-trip/" target="_blank">places to go</a>  and <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank">travelling tips</a> in Hong Kong.
+Chek for more information of Hong Kong in <a href="http://aquabubu.com/blog/travel/Hong-Kong-trip/" target="_blank">places to go</a>  and <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank">travelling tips</a>.
