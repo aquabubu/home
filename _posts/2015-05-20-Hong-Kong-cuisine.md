@@ -1,5 +1,5 @@
 ---
-title: Hong Kong food trip
+title: Hong Kong cuisine
 categories: Cuisine
 tags:
 - hongkongfoodtrip
