@@ -91,6 +91,16 @@ Lúc đầu mình mua khăn ướt Pampers, xài tốt nhưng khá mắc nên sa
 Lúc bé còn nhỏ thì mình tắm bằng cái chậu nhỏ, sau lớn thì mình chuyển qua cho tắm chậu chuyên cho baby.
 {: style="text-align: justify;"}
 
+### <span style="color:peru"> Bộ cắt móng tay cho bé </span>
+
+<figure style="width: 350px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/babynail.png" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Móng tay và móng chân của bé mọc nhanh lắm, vì vậy các mẹ nên sắm một bộ để tện vệ sinh cho con. Bé sơ sinh hay đưa tay cào mặt, nên cắt ngắn móng tay cho an toàn nhé các mẹ. Không nên cắn móng tay cho bé vì mất vệ sinh lắm đấy, dễ gây nhiễm trùng cho con.
+{: style="text-align: justify;"}
+
 ### <span style="color:crimson"> Phao bơi </span>
 
 <img align="left" style="width:200px; padding: 10px" src="/assets/images/phao.png"> Sau khi bé được 3 tháng là mình xả nước bồn tắm và mặc phao cổ cho bé bơi rồi vì mình đọc thấy bơi sớm giúp bé tăng khả năng giữ thăng bằng, kích hoạt 2 phản xạ bơi lội bẩm sinh  quan trọng là nín thở và quẫy đạp. Những lần đầu mình ôm bé tắm chung để bé không sợ, khi bé quen thì mình để bé bơi một mình, đứng bên cạnh nhìn bé. Mẹ nào cho con bơi thì chú ý luôn ở gần và quan sát bé thật kĩ nhé, không được lơ là đâu. Khi bé còn nhỏ thì cho bé bơi 5-7 phút là được rồi, tránh bơi lâu bé sẽ bị lạnh, và nhớ xả nước ấm cho bé nhé.
@@ -168,7 +178,7 @@ Hai tháng đầu mình cho bé đội để che thóp nên mua 2-3 cái nón th
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/khan.png" alt="">
   <figcaption></figcaption>
 </figure>
-Cái này thì nên mua nhiều, khăn xô nhỏ để lau mặt thì mình mua tầm 20 cái, khăn xô bự để lau người sau khi bé tắm thì 3-4 cái.
+Cái này thì nên mua nhiều, khăn xô nhỏ để lau mặt thì mình mua tầm 20 cái, khăn xô bự để lau người sau khi bé tắm thì 3-4 cái, khăn quấn em bé 3-4 cái.
 {: style="text-align: justify;"}
 
 ### <span style="color:gold"> Miếng lót chống thấm </span>
