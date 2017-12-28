@@ -19,9 +19,8 @@ related: true
 toc: true
 ---
 
-Food is one of the most memorable things in Hong Kong due to its past as a British colony and long history of being an international port of commerce. There is an unlimited variety of food from the roadside stalls to the most upscale restaurants. And, after being here, I can understand why it is called "Gourmet Paradise" and "World's Fair of Food". Now, let's see what is special about their food.
+The diversity of food is one of the most memorable things in Hong Kong due to its past as a British colony and long history of being an international port of commerce. There is an unlimited variety of food from the roadside stalls to the most upscale restaurants. And, after being here, I can understand why it is called "Gourmet Paradise" and "World's Fair of Food". Now, let's see what is special about their food. Therefore, I will introduce some restaurants and foods that I enjoyed during my trip to Hong Kong and give some comments on them.
 {: style="text-align: justify;"}
-
 ## <font color="#CE9CF8"> Sing Heung Yuen (2 Mei Lun Street, Central) </font>
 
 <figure style="width: 450px" class="align-center">
