@@ -1,14 +1,9 @@
 ---
-title: Korean cuisine
-categories: Cuisine
-tags:
-- koreancuisine
-- koreanfood
-- foodtotryinkorea
-- whattoeatinkorea
-- aquabubu
+title: Ẩm thực Hàn quốc - Phần 1
+categories: null
+tags: null
 header:
-  teaser: assets/images/kcuisine.png
+  teaser: assets/images/logo.png
 layout: single
 author_profile: true
 read_time: true
