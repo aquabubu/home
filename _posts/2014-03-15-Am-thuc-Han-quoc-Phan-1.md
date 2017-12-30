@@ -7,7 +7,7 @@ tags:
 - angikhidulichdenhanquoc
 - aquabubu
 header:
-  teaser: assets/images/kcuisinepng
+  teaser: assets/images/kcuisine.png
 layout: single
 author_profile: true
 read_time: true
