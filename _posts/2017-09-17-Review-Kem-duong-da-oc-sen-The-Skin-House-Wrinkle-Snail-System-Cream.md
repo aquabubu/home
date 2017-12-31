@@ -63,7 +63,7 @@ Các bạn xem thành phần ở trang <a href="http://www.cosdna.com/eng/cosmet
 
 ## Cách dùng
 
-   * Kem dưỡng ẩm: Trước khi đi ngủ, sau các bước toner, sữa dưỡng, kem mắt thì thoa kem ốc sên như là bước cuối cùng để khoá ẩm.
+  * Kem dưỡng ẩm: Trước khi đi ngủ, sau các bước toner, sữa dưỡng, kem mắt thì thoa kem ốc sên như là bước cuối cùng để khoá ẩm.
   * Kem mátxa: Khi da của bạn trở nên nhạy cảm với những kích thích từ bên ngoài, sử dụng toner để làm dịu da và thoa kem ốc sên, sau đó massage nhẹ nhàng.
   * Mặt nạ dưỡng ẩm: sử dụng toner để làm dịu da và thoa lớp kem ốc sên dày, rửa sạch sau 15-20 phút.
 {: style="text-align: justify;"}
