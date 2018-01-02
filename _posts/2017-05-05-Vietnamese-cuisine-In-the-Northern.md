@@ -84,14 +84,14 @@ Since the US President Barack Obama visited a Bun cha restaurant called Bun cha 
 
 ## <span style="color:mediumseagreen"> Bun rieu cua (Bún riêu cua) </span>
 
-<img align="left" style="width:250px; padding: 10px" src="/assets/images/bunrieucua.png"> Bun rieu cua is rice-vermicelli served with tomato broth and topped with freshwater crab. In some places, fried tofu is also used. In this dish, various freshwater paddy crabs are used, including the brown paddy crab found in rice paddies in Vietnam. Some says that Vietnamese like to enjoy it in summer but actually, for every dish in Vietnam, people just eat whenever they like.
+<img align="left" style="width:350px; padding: 10px" src="/assets/images/bunrieucua.png"> Bun rieu cua is rice-vermicelli served with tomato broth and topped with freshwater crab. In some places, fried tofu is also used. In this dish, various freshwater paddy crabs are used, including the brown paddy crab found in rice paddies in Vietnam. Some says that Vietnamese like to enjoy it in summer but actually, for every dish in Vietnam, people just eat whenever they like.
 {: style="text-align: justify;"}
 
 ## <span style="color:mediumorchid"> Spring roll (Nem) </span>
 In the North, Spring rolls is called Nem, while in the South, it is called Chả giò.
 {: style="text-align: justify;"} 
 
-<img align="right" style="width:250px; padding: 10px" src="/assets/images/nem.png"> Usually, uncooked minced pork, prawn, vegetables (e.g. scallions, black fungus, carrot, green bean sprout), and cellophane noodles are wrapped in Vietnamese rice paper before frying. Spring rolls are served with seasoning fish sauce or chili sauce.
+<img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Usually, uncooked minced pork, prawn, vegetables (e.g. scallions, black fungus, carrot, green bean sprout), and cellophane noodles are wrapped in Vietnamese rice paper before frying. Spring rolls are served with seasoning fish sauce or chili sauce.
 {: style="text-align: justify;"}
 
 ## <span style="color:coral"> Sticky rice/Glutinous rice - Xoi (Xôi) </span>
