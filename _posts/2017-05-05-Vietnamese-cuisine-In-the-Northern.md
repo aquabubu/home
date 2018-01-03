@@ -87,11 +87,16 @@ Since the US President Barack Obama visited a Bun cha restaurant called Bun cha 
 <img align="left" style="width:350px; padding: 10px" src="/assets/images/bunrieucua.png"> Bun rieu cua is rice-vermicelli served with tomato broth and topped with freshwater crab. In some places, fried tofu is also used. In this dish, various freshwater paddy crabs are used, including the brown paddy crab found in rice paddies in Vietnam. Some says that Vietnamese like to enjoy it in summer but actually, for every dish in Vietnam, people just eat whenever they like.
 {: style="text-align: justify;"}
 
+## <span style="color:peru"> Combo noodle soup - Bun thang (Bún thang) </span>
+
+<img align="right" style="width:350px; padding: 10px" src="/assets/images/bunthang.png"> This is rice-vermicelli soup topped with chicken, pork, dried shrimp and egg,  and vegetables (such as scallions, fried shallots, ginger,  shiitake, dried radish) and arranged following a certain order. Bun thang is also a speciality of Hanoi capital.
+{: style="text-align: justify;"}
+
 ## <span style="color:mediumorchid"> Spring roll (Nem) </span>
 In the North, Spring rolls is called Nem, while in the South, it is called Chả giò.
 {: style="text-align: justify;"} 
 
-<img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Usually, uncooked minced pork, prawn, vegetables (e.g. scallions, black fungus, carrot, green bean sprout), and cellophane noodles are wrapped in Vietnamese rice paper before frying. Spring rolls are served with seasoning fish sauce or chili sauce.
+<img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Usually, uncooked minced pork, prawn, vegetables (e.g. scallions, black fungus, carrot, green bean sprout), and cellophane noodles are wrapped in Vietnamese rice paper before frying. Spring rolls are served with seasoning fish sauce (in the South, people can use chili sauce).
 {: style="text-align: justify;"}
 
 ## <span style="color:coral"> Sticky rice/Glutinous rice - Xoi (Xôi) </span>
@@ -123,6 +128,11 @@ Xoi is a specific dish in Vietnam that people usually eat for breakfast. It is w
 **Xoi chim (Xôi chim)** - sticky rice mixed with fried dove meat and fried shallots.
 {: style="text-align: justify;"}
 
+## <span style="color:skyblue"> Steam Rice Rolls - Banh cuon (Bánh cuốn) </span>
+
+<img align="left" style="width:350px; padding: 10px" src="/assets/images/banhcuon.png">This dish is made from a thin, wide sheet of steamed fermented rice batter filled with a mixture of cooked seasoned ground pork, minced black fungus, and fried shallots. Banh cuon is served with Vietnamese pork sausage, sliced cucumber, and green bean sprouts (someplaces also eat with Vietnamese fermented beef or Spring rolls). Before eating, dip Banh cuon with the sour-sweet fish sauce (the sauce may be spicy or not depend on people taste).
+{: style="text-align: justify;"}
+
 ## <span style="color:darkcyan"> Bread (Bánh mì) </span>
 In the North, there are some famous kinds of bread including:
 {: style="text-align: justify;"}
@@ -141,5 +151,5 @@ In the North, there are some famous kinds of bread including:
 **Banh mi cay (Bánh mì cay)** - breadstick stuffed pate and spicy chili sauce.
 {: style="text-align: justify;"}
 
-**Banh mi cha xien (Bánh mì chả xiên)** - bread stuffed grilled pork skewers, coriander, cucumber, chili and special sauce or chili sauce.
+**Banh mi thit xien (Bánh mì thịt xiên)** - bread stuffed grilled pork skewers, coriander, cucumber, chili and special sauce or chili sauce.
 {: style="text-align: justify;"}

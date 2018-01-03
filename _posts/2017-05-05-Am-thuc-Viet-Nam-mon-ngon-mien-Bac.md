@@ -42,7 +42,7 @@ Bên cạnh đó, ở thủ đô Hà Nội còn có hai loại phở khô đặc
 <img align="right" style="width:250px; padding: 10px" src="/assets/images/phocuon.png"> **Phở cuốn** - bánh phở được tráng mỏng ra rồi cuộn với thịt bò đã nấu chín và rau thơm, có nơi dùng rau xà lách và rau mùi. Phở cuốn ăn với nước mắm tỏi ớt chua ngọt pha loãng. Người Hà thành thì ăn món này với tương ớt chua cay.
 {: style="text-align: justify;"}
 
-<img align="left" style="width:250px; padding: 10px" src="/assets/images/phochienphong.png"> **Phở chiên phồng** - bánh phở được chiên ngập dầu cho phồng lên, ăn giòn giòn, bên trên là thịt bò xào, rau và nước sốt.Món phở này cũng ngon lắm, nhưng bị cái hơi dầu mỡ.
+<img align="left" style="width:250px; padding: 10px" src="/assets/images/phochienphong.png"> **Phở chiên phồng** - bánh phở được chiên ngập dầu cho phồng lên, ăn giòn giòn, bên trên là thịt bò xào, rau và nước sốt. Món phở này cũng ngon lắm, nhưng bị cái hơi dầu mỡ.
 {: style="text-align: justify;"}
 
 ## <span style="color:indianred"> Bún chả Hà Nội </span>
@@ -62,12 +62,17 @@ Từ khi Tổng thống Hoa Kỳ Barack Obama đến ăn ở quán Bún chả H�
 <img align="left" style="width:350px; padding: 10px" src="/assets/images/bunrieucua.png"> Bún riêu cua với nước dùng cà chua, gạch cua đồng và đậu hũ chiên có vị thơm ngon đậm đà của cua đồng và cả vị chua thanh của cà chua. Một số người cho rằng món này hay ăn vào mùa hè nhưng thực ra, đối với mọi món ăn ở Việt Nam, thích ăn lúc nào thì ăn thôi.
 {: style="text-align: justify;"}
 
+## <span style="color:peru"> Bún thang </span>
+
+<img align="right" style="width:350px; padding: 10px" src="/assets/images/bunthang.png"> Đây là một trong những món đặc sản ở Hà Nội, món bún với nhiều thành phần như thịt gà, thịt heo, tôm khô, trứng và rau các loại (như là hành lá, hành khô, nấm hương...) được xếp lên trên theo thứ tự nhất định (giống như từng thang thuốc trong thuốc Bắc, có lẽ vì vậy nên được gọi là bún thang).
+{: style="text-align: justify;"}
+
 ## <span style="color:mediumorchid"> Nem </span>
 
-Ở miền Bắc, bánh tráng cuốn chiên lên được gọi là Nem, trong khi ở miền Nam, nó được gọi là Chả giò.
+Ở miền Bắc, bánh tráng cuốn rán lên được gọi là Nem, trong khi ở miền Nam, nó được gọi là Chả giò.
 {: style="text-align: justify;"} 
 
-<img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Thông thường, thịt heo băm, tôm, các loại rau(ví dụ như nấm mèo, cà rốt, giá) và miến được cuốn lại trong bánh tráng trước khi chiên. Món này ăn với nước mắm chua ngọt hoặc tương ớt.
+<img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Thông thường, thịt heo băm, tôm, các loại rau (ví dụ như nấm mèo, cà rốt, giá) và miến được cuốn lại trong bánh tráng trước khi rán. Món này ăn với nước mắm chua ngọt (ở miền Nam có thể ăn món này với tương ớt).
 {: style="text-align: justify;"}
 
 ## <span style="color:coral"> Xôi </span>
@@ -101,9 +106,14 @@ Xôi là một món ăn đặc trưng ở Việt Nam mà mọi người thườn
 **Xôi chim** - xôi nếp với thịt chim bồ câu và hành phi.
 {: style="text-align: justify;"}
 
+## <span style="color:skyblue"> Bánh cuốn </span>
+
+<img align="left" style="width:350px; padding: 10px" src="/assets/images/banhcuon.png"> Bánh cuốn là món làm từ bột gạo hấp tráng mỏng, bên trong độn thịt bằm đã nấu chín, mộc nhĩ rồi cuốn lại. Khi ăn thì được đặt lên đĩa, ăn với chả lụa, hành phi, dưa leo cắt sợi, rau ngò và giá, cũng có nơi ăn với nem rán hoặc nem chua. Món này ăn với nước mắm pha chua ngọt, độ cay của nước chấm thì tùy vào khẩu vị người ăn.
+{: style="text-align: justify;"}
+
 ## <span style="color:darkcyan"> Bánh mì </span>
 
-Các món bành mì nổi tiếng ở miền Bắc là:
+Các món bánh mì nổi tiếng ở miền Bắc là:
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
@@ -120,5 +130,5 @@ Các món bành mì nổi tiếng ở miền Bắc là:
 **Bánh mì cay** - bánh mì que nhồi patê ăn với tương ớt.
 {: style="text-align: justify;"}
 
-**Bánh mì chả xiên** - bánh mì nhồi xiên thịt nướng, rau ngò, dưa leo, ăn với nước sốt hoặc tương ớt.
+**Bánh mì thịt xiên** - bánh mì nhồi xiên thịt nướng, rau ngò, dưa leo, ăn với nước sốt hoặc tương ớt.
 {: style="text-align: justify;"}
