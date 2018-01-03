@@ -69,7 +69,7 @@ Từ khi Tổng thống Hoa Kỳ Barack Obama đến ăn ở quán Bún chả H�
 
 ## <span style="color:mediumorchid"> Nem </span>
 
-Ở miền Bắc, bánh tráng cuốn rán lên được gọi là Nem, trong khi ở miền Nam, nó được gọi là Chả giò.
+Ở miền Bắc, bánh tráng cuốn rán lên được gọi là Nem, trong khi ở miền Nam, nó được gọi là Chả giò và ở miền Trung thì gọi là Ram.
 {: style="text-align: justify;"} 
 
 <img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Thông thường, thịt heo băm, tôm, các loại rau (ví dụ như nấm mèo, cà rốt, giá) và miến được cuốn lại trong bánh tráng trước khi rán. Món này ăn với nước mắm chua ngọt (ở miền Nam có thể ăn món này với tương ớt).

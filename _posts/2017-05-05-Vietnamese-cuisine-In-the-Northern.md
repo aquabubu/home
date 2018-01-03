@@ -93,7 +93,7 @@ Since the US President Barack Obama visited a Bun cha restaurant called Bun cha 
 {: style="text-align: justify;"}
 
 ## <span style="color:mediumorchid"> Spring roll (Nem) </span>
-In the North, Spring rolls is called Nem, while in the South, it is called Chả giò.
+In the North, Spring rolls is called Nem, while in the South, it is called Chả giò and in the Central, people call it Ram.
 {: style="text-align: justify;"} 
 
 <img align="right" style="width:350px; padding: 10px" src="/assets/images/nem.png"> Usually, uncooked minced pork, prawn, vegetables (e.g. scallions, black fungus, carrot, green bean sprout), and cellophane noodles are wrapped in Vietnamese rice paper before frying. Spring rolls are served with seasoning fish sauce (in the South, people can use chili sauce).
